@@ -1,0 +1,42 @@
+
+================================================================================
+CIERRE H2 · CESTA DE LA COMPRA CON LIFT > 1
+
+Sobre el dataset Casa Origen 2023-2025 (179,112 tickets, 37 productos
+y 6 categorías), FP-Growth con min_support 0.005 identifica 20 itemsets
+frecuentes multi-producto y 5 reglas cross-categoría accionables.
+
+CINCO COMBOS DEFINITIVOS PROPUESTOS PARA CARTA
+------------------------------------------------------------------------------
+1. Combo Brunch Healthy       Kombucha + Tosta Aguacate      lift 3.46 (mediodía)
+2. Combo Almuerzo Rápido      Espresso + Tosta Mant. Miel    lift 2.85 (mediodía)
+3. Slow Morning (caja)        Filter Coffee + Banana Bread   lift 2.76 (apertura)
+4. Break de Tarde             Cookie + Latte                 lift 1.80 (tarde)
+5. Combo Barra (universal)    Croissant Mantequilla + Flat W. lift 1.41 (todas)
+
+CUATRO PERSONALIDADES DEL NEGOCIO POR FRANJA
+------------------------------------------------------------------------------
+· Apertura (<9h)   : Cliente slow, combos de filter y bakery menos indulgente.
+· Mañana (9-12h)   : Desayuno canónico (Croissant + Flat White) + pre-brunch.
+· Mediodía (12-14h): Brunch (Kombucha + Tosta) y combos "sencillos" (Espresso + Tosta).
+· Tarde (14-17h)   : Capricho dulce (Cookie + Latte, Cappuccino + Pistacho).
+
+HIPÓTESIS H2 → CONFIRMADA
+Existen reglas con lift significativo (hasta 3.46) y confidence operativa (>20%)
+que justifican la creación de 5+ combos formales y una política
+de sugerencia en caja diferenciada por franja horaria.
+
+LIMITACIONES METODOLÓGICAS
+------------------------------------------------------------------------------
+· Dataset sintético con seed=42; en despliegue real los porcentajes exactos
+  variarían pero el patrón cross-categoría se mantendría.
+· Confidences moderadas (20-45%) por catálogo amplio (37 productos); en un
+  catálogo de 15-20 items esperaríamos confidences 40-60%.
+· Los combos se validarían con test A/B durante 4-8 semanas antes de escalar.
+
+PRÓXIMOS PASOS
+------------------------------------------------------------------------------
+· Integración de ml_basket_rules.csv en Power BI como tabla independiente.
+· Dashboard 02 (Product & Menu) publica KPIs de reglas y los combos propuestos.
+· Fase 6 traduce los 5 combos a mecánica concreta (precio, comunicación, KPI).
+================================================================================

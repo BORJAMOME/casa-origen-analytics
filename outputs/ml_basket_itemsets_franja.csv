@@ -1,0 +1,81 @@
+﻿itemset_str;producto_a;producto_b;franja;n_tickets;support_pct;franja_orden;fecha_calculo
+Croissant Mantequilla + Flat White;Croissant Mantequilla;Flat White;Apertura;1424;5,07;1;2026-07-17
+Croissant Mantequilla + Flat White;Croissant Mantequilla;Flat White;Mañana;3106;3,9;2;2026-07-17
+Croissant Mantequilla + Flat White;Croissant Mantequilla;Flat White;Mediodía;861;1,99;3;2026-07-17
+Croissant Mantequilla + Flat White;Croissant Mantequilla;Flat White;Tarde;989;3,53;4;2026-07-17
+Croissant Mantequilla + Latte;Croissant Mantequilla;Latte;Apertura;1147;4,09;1;2026-07-17
+Croissant Mantequilla + Latte;Croissant Mantequilla;Latte;Mañana;2556;3,21;2;2026-07-17
+Croissant Mantequilla + Latte;Croissant Mantequilla;Latte;Mediodía;674;1,56;3;2026-07-17
+Croissant Mantequilla + Latte;Croissant Mantequilla;Latte;Tarde;872;3,12;4;2026-07-17
+Kombucha + Tosta Aguacate;Kombucha;Tosta Aguacate;Apertura;66;0,24;1;2026-07-17
+Kombucha + Tosta Aguacate;Kombucha;Tosta Aguacate;Mañana;1065;1,34;2;2026-07-17
+Kombucha + Tosta Aguacate;Kombucha;Tosta Aguacate;Mediodía;2272;5,25;3;2026-07-17
+Kombucha + Tosta Aguacate;Kombucha;Tosta Aguacate;Tarde;211;0,75;4;2026-07-17
+Croissant Mantequilla + Croissant Pistacho;Croissant Mantequilla;Croissant Pistacho;Apertura;498;1,77;1;2026-07-17
+Croissant Mantequilla + Croissant Pistacho;Croissant Mantequilla;Croissant Pistacho;Mañana;1217;1,53;2;2026-07-17
+Croissant Mantequilla + Croissant Pistacho;Croissant Mantequilla;Croissant Pistacho;Mediodía;239;0,55;3;2026-07-17
+Croissant Mantequilla + Croissant Pistacho;Croissant Mantequilla;Croissant Pistacho;Tarde;554;1,98;4;2026-07-17
+Flat White + Pain au Chocolat;Flat White;Pain au Chocolat;Apertura;558;1,99;1;2026-07-17
+Flat White + Pain au Chocolat;Flat White;Pain au Chocolat;Mañana;1168;1,46;2;2026-07-17
+Flat White + Pain au Chocolat;Flat White;Pain au Chocolat;Mediodía;313;0,72;3;2026-07-17
+Flat White + Pain au Chocolat;Flat White;Pain au Chocolat;Tarde;403;1,44;4;2026-07-17
+Cappuccino + Croissant Pistacho;Cappuccino;Croissant Pistacho;Apertura;522;1,86;1;2026-07-17
+Cappuccino + Croissant Pistacho;Cappuccino;Croissant Pistacho;Mañana;1181;1,48;2;2026-07-17
+Cappuccino + Croissant Pistacho;Cappuccino;Croissant Pistacho;Mediodía;303;0,7;3;2026-07-17
+Cappuccino + Croissant Pistacho;Cappuccino;Croissant Pistacho;Tarde;403;1,44;4;2026-07-17
+Croissant Mantequilla + Pain au Chocolat;Croissant Mantequilla;Pain au Chocolat;Apertura;432;1,54;1;2026-07-17
+Croissant Mantequilla + Pain au Chocolat;Croissant Mantequilla;Pain au Chocolat;Mañana;1066;1,34;2;2026-07-17
+Croissant Mantequilla + Pain au Chocolat;Croissant Mantequilla;Pain au Chocolat;Mediodía;214;0,49;3;2026-07-17
+Croissant Mantequilla + Pain au Chocolat;Croissant Mantequilla;Pain au Chocolat;Tarde;436;1,56;4;2026-07-17
+Croissant Pistacho + Flat White;Croissant Pistacho;Flat White;Apertura;456;1,62;1;2026-07-17
+Croissant Pistacho + Flat White;Croissant Pistacho;Flat White;Mañana;1010;1,27;2;2026-07-17
+Croissant Pistacho + Flat White;Croissant Pistacho;Flat White;Mediodía;269;0,62;3;2026-07-17
+Croissant Pistacho + Flat White;Croissant Pistacho;Flat White;Tarde;366;1,31;4;2026-07-17
+Cappuccino + Croissant Mantequilla;Cappuccino;Croissant Mantequilla;Apertura;439;1,56;1;2026-07-17
+Cappuccino + Croissant Mantequilla;Cappuccino;Croissant Mantequilla;Mañana;982;1,23;2;2026-07-17
+Cappuccino + Croissant Mantequilla;Cappuccino;Croissant Mantequilla;Mediodía;187;0,43;3;2026-07-17
+Cappuccino + Croissant Mantequilla;Cappuccino;Croissant Mantequilla;Tarde;327;1,17;4;2026-07-17
+Cookie + Latte;Cookie;Latte;Apertura;420;1,5;1;2026-07-17
+Cookie + Latte;Cookie;Latte;Mañana;868;1,09;2;2026-07-17
+Cookie + Latte;Cookie;Latte;Mediodía;245;0,57;3;2026-07-17
+Cookie + Latte;Cookie;Latte;Tarde;291;1,04;4;2026-07-17
+Flat White + Latte;Flat White;Latte;Apertura;469;1,67;1;2026-07-17
+Flat White + Latte;Flat White;Latte;Mañana;822;1,03;2;2026-07-17
+Flat White + Latte;Flat White;Latte;Mediodía;160;0,37;3;2026-07-17
+Flat White + Latte;Flat White;Latte;Tarde;259;0,93;4;2026-07-17
+Espresso + Tosta Mantequilla Miel;Espresso;Tosta Mantequilla Miel;Apertura;29;0,1;1;2026-07-17
+Espresso + Tosta Mantequilla Miel;Espresso;Tosta Mantequilla Miel;Mañana;551;0,69;2;2026-07-17
+Espresso + Tosta Mantequilla Miel;Espresso;Tosta Mantequilla Miel;Mediodía;955;2,21;3;2026-07-17
+Espresso + Tosta Mantequilla Miel;Espresso;Tosta Mantequilla Miel;Tarde;102;0,36;4;2026-07-17
+Café con Leche + Tosta Tomate;Café con Leche;Tosta Tomate;Apertura;27;0,1;1;2026-07-17
+Café con Leche + Tosta Tomate;Café con Leche;Tosta Tomate;Mañana;532;0,67;2;2026-07-17
+Café con Leche + Tosta Tomate;Café con Leche;Tosta Tomate;Mediodía;935;2,16;3;2026-07-17
+Café con Leche + Tosta Tomate;Café con Leche;Tosta Tomate;Tarde;98;0,35;4;2026-07-17
+Croissant Mantequilla + Matcha Latte;Croissant Mantequilla;Matcha Latte;Apertura;363;1,29;1;2026-07-17
+Croissant Mantequilla + Matcha Latte;Croissant Mantequilla;Matcha Latte;Mañana;746;0,94;2;2026-07-17
+Croissant Mantequilla + Matcha Latte;Croissant Mantequilla;Matcha Latte;Mediodía;218;0,5;3;2026-07-17
+Croissant Mantequilla + Matcha Latte;Croissant Mantequilla;Matcha Latte;Tarde;256;0,91;4;2026-07-17
+Croissant Mantequilla + Tosta Aguacate;Croissant Mantequilla;Tosta Aguacate;Apertura;44;0,16;1;2026-07-17
+Croissant Mantequilla + Tosta Aguacate;Croissant Mantequilla;Tosta Aguacate;Mañana;643;0,81;2;2026-07-17
+Croissant Mantequilla + Tosta Aguacate;Croissant Mantequilla;Tosta Aguacate;Mediodía;696;1,61;3;2026-07-17
+Croissant Mantequilla + Tosta Aguacate;Croissant Mantequilla;Tosta Aguacate;Tarde;147;0,53;4;2026-07-17
+Café con Leche + Croissant Mantequilla;Café con Leche;Croissant Mantequilla;Apertura;372;1,32;1;2026-07-17
+Café con Leche + Croissant Mantequilla;Café con Leche;Croissant Mantequilla;Mañana;753;0,94;2;2026-07-17
+Café con Leche + Croissant Mantequilla;Café con Leche;Croissant Mantequilla;Mediodía;158;0,36;3;2026-07-17
+Café con Leche + Croissant Mantequilla;Café con Leche;Croissant Mantequilla;Tarde;246;0,88;4;2026-07-17
+Cinnamon Roll + Croissant Mantequilla;Cinnamon Roll;Croissant Mantequilla;Apertura;270;0,96;1;2026-07-17
+Cinnamon Roll + Croissant Mantequilla;Cinnamon Roll;Croissant Mantequilla;Mañana;775;0,97;2;2026-07-17
+Cinnamon Roll + Croissant Mantequilla;Cinnamon Roll;Croissant Mantequilla;Mediodía;101;0,23;3;2026-07-17
+Cinnamon Roll + Croissant Mantequilla;Cinnamon Roll;Croissant Mantequilla;Tarde;319;1,14;4;2026-07-17
+Banana Bread + Latte;Banana Bread;Latte;Apertura;296;1,05;1;2026-07-17
+Banana Bread + Latte;Banana Bread;Latte;Mañana;727;0,91;2;2026-07-17
+Banana Bread + Latte;Banana Bread;Latte;Mediodía;174;0,4;3;2026-07-17
+Banana Bread + Latte;Banana Bread;Latte;Tarde;244;0,87;4;2026-07-17
+Croissant Pistacho + Latte;Croissant Pistacho;Latte;Apertura;324;1,15;1;2026-07-17
+Croissant Pistacho + Latte;Croissant Pistacho;Latte;Mañana;719;0,9;2;2026-07-17
+Croissant Pistacho + Latte;Croissant Pistacho;Latte;Mediodía;117;0,27;3;2026-07-17
+Croissant Pistacho + Latte;Croissant Pistacho;Latte;Tarde;274;0,98;4;2026-07-17
+Kombucha + Tosta Salmón;Kombucha;Tosta Salmón;Apertura;17;0,06;1;2026-07-17
+Kombucha + Tosta Salmón;Kombucha;Tosta Salmón;Mañana;405;0,51;2;2026-07-17
+Kombucha + Tosta Salmón;Kombucha;Tosta Salmón;Mediodía;947;2,19;3;2026-07-17
+Kombucha + Tosta Salmón;Kombucha;Tosta Salmón;Tarde;64;0,23;4;2026-07-17

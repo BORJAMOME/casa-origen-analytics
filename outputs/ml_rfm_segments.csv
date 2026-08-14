@@ -1,0 +1,1201 @@
+﻿id_cliente,recency,frequency,monetary,cluster_id,segmento_rfm,orden_segmento_rfm,fecha_calculo,version_modelo
+1,4,319,2742.31,3,Champions,1,2026-07-20,rfm_kmeans_v1
+2,2,160,1361.2,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+3,1,298,2563.12,3,Champions,1,2026-07-20,rfm_kmeans_v1
+4,36,147,1352.13,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+5,29,51,457.68,1,Potential,4,2026-07-20,rfm_kmeans_v1
+6,360,29,247.98,4,Lost,5,2026-07-20,rfm_kmeans_v1
+7,2,297,2665.29,3,Champions,1,2026-07-20,rfm_kmeans_v1
+8,5,131,1089.81,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+9,2,311,2833.89,3,Champions,1,2026-07-20,rfm_kmeans_v1
+10,1,137,1179.95,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+11,14,152,1381.05,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+12,3,305,2848.57,3,Champions,1,2026-07-20,rfm_kmeans_v1
+13,182,44,425.67,4,Lost,5,2026-07-20,rfm_kmeans_v1
+14,8,146,1345.75,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+15,11,137,1084.07,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+16,47,155,1360.3,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+17,236,41,407.5,4,Lost,5,2026-07-20,rfm_kmeans_v1
+18,41,39,417.25,1,Potential,4,2026-07-20,rfm_kmeans_v1
+19,12,140,1202.46,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+20,2,178,1478.68,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+21,5,297,2746.35,3,Champions,1,2026-07-20,rfm_kmeans_v1
+22,2,291,2620.65,3,Champions,1,2026-07-20,rfm_kmeans_v1
+23,2,319,2698.14,3,Champions,1,2026-07-20,rfm_kmeans_v1
+24,39,144,1240.97,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+25,52,163,1364.23,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+26,5,151,1269.36,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+27,4,136,1226.69,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+28,1,300,2703.35,3,Champions,1,2026-07-20,rfm_kmeans_v1
+29,36,143,1253.95,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+30,1,300,2598.52,3,Champions,1,2026-07-20,rfm_kmeans_v1
+31,7,160,1385.41,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+32,3,173,1515.42,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+33,432,49,446.54,4,Lost,5,2026-07-20,rfm_kmeans_v1
+34,10,134,1077.45,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+35,2,330,2885.92,3,Champions,1,2026-07-20,rfm_kmeans_v1
+36,4,147,1292.92,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+37,36,147,1271.03,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+38,11,168,1377.07,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+39,36,155,1306.65,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+40,5,153,1346.07,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+41,9,159,1465.42,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+42,1,316,2713.84,3,Champions,1,2026-07-20,rfm_kmeans_v1
+43,3,148,1365.92,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+44,1,43,363.45,1,Potential,4,2026-07-20,rfm_kmeans_v1
+45,1,149,1296.69,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+46,90,49,431.41,1,Potential,4,2026-07-20,rfm_kmeans_v1
+47,19,159,1273.53,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+48,32,43,355.88,1,Potential,4,2026-07-20,rfm_kmeans_v1
+49,2,328,2989.19,3,Champions,1,2026-07-20,rfm_kmeans_v1
+50,2,174,1473.64,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+51,1,295,2755.79,3,Champions,1,2026-07-20,rfm_kmeans_v1
+52,30,39,288.38,1,Potential,4,2026-07-20,rfm_kmeans_v1
+53,64,147,1343.22,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+54,67,135,1039.02,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+55,4,142,1341.0,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+56,1,170,1584.14,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+57,7,150,1455.17,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+58,2,145,1359.92,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+59,62,136,1126.71,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+60,5,170,1442.01,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+61,2,167,1396.51,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+62,25,154,1336.15,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+63,22,146,1294.02,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+64,4,166,1394.88,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+65,19,130,1165.5,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+66,24,153,1292.46,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+67,241,42,421.11,4,Lost,5,2026-07-20,rfm_kmeans_v1
+68,1,160,1359.38,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+69,18,151,1449.09,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+70,5,139,1220.56,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+71,27,131,1252.24,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+72,2,169,1396.04,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+73,1,300,2419.21,3,Champions,1,2026-07-20,rfm_kmeans_v1
+74,302,35,310.7,4,Lost,5,2026-07-20,rfm_kmeans_v1
+75,3,314,2624.92,3,Champions,1,2026-07-20,rfm_kmeans_v1
+76,39,145,1432.6,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+77,40,127,1044.57,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+78,1,298,2692.71,3,Champions,1,2026-07-20,rfm_kmeans_v1
+79,438,38,347.38998,4,Lost,5,2026-07-20,rfm_kmeans_v1
+80,59,43,355.84,1,Potential,4,2026-07-20,rfm_kmeans_v1
+81,528,43,364.18,4,Lost,5,2026-07-20,rfm_kmeans_v1
+82,1,319,3043.73,3,Champions,1,2026-07-20,rfm_kmeans_v1
+83,3,159,1478.44,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+84,5,147,1208.12,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+85,4,156,1477.31,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+86,25,151,1260.71,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+87,3,137,1258.42,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+88,6,280,2450.31,3,Champions,1,2026-07-20,rfm_kmeans_v1
+89,26,147,1188.08,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+90,143,29,329.5,4,Lost,5,2026-07-20,rfm_kmeans_v1
+91,1,167,1603.39,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+92,35,42,401.07,1,Potential,4,2026-07-20,rfm_kmeans_v1
+93,46,145,1123.1,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+94,19,128,1128.26,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+95,3,176,1541.0,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+96,19,152,1354.36,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+97,2,147,1159.87,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+98,5,157,1305.85,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+99,255,41,395.85,4,Lost,5,2026-07-20,rfm_kmeans_v1
+100,64,148,1229.46,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+101,2,284,2772.75,3,Champions,1,2026-07-20,rfm_kmeans_v1
+102,4,138,1343.34,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+103,142,42,302.51,4,Lost,5,2026-07-20,rfm_kmeans_v1
+104,1,326,2901.4,3,Champions,1,2026-07-20,rfm_kmeans_v1
+105,35,152,1365.45,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+106,1,165,1443.1,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+107,76,45,446.52,1,Potential,4,2026-07-20,rfm_kmeans_v1
+108,351,50,455.4,4,Lost,5,2026-07-20,rfm_kmeans_v1
+109,175,30,263.12,4,Lost,5,2026-07-20,rfm_kmeans_v1
+110,3,146,1166.8,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+111,11,52,413.98,1,Potential,4,2026-07-20,rfm_kmeans_v1
+112,1,144,1302.33,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+113,10,145,1259.02,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+114,2,134,1160.81,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+115,29,180,1654.77,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+116,7,160,1382.53,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+117,1,149,1327.93,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+118,6,157,1288.73,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+119,306,44,385.51,4,Lost,5,2026-07-20,rfm_kmeans_v1
+120,1,317,2794.15,3,Champions,1,2026-07-20,rfm_kmeans_v1
+121,64,156,1345.64,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+122,7,149,1469.13,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+123,1,182,1575.43,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+124,3,166,1420.24,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+125,1,172,1507.09,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+126,4,173,1521.79,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+127,68,40,274.38,1,Potential,4,2026-07-20,rfm_kmeans_v1
+128,65,174,1525.97,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+129,2,159,1469.9,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+130,5,163,1420.4,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+131,1,165,1369.54,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+132,2,159,1375.73,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+133,228,47,424.82,4,Lost,5,2026-07-20,rfm_kmeans_v1
+134,7,137,1271.79,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+135,27,47,411.88,1,Potential,4,2026-07-20,rfm_kmeans_v1
+136,66,38,345.87,1,Potential,4,2026-07-20,rfm_kmeans_v1
+137,417,36,280.4,4,Lost,5,2026-07-20,rfm_kmeans_v1
+138,485,50,514.75,4,Lost,5,2026-07-20,rfm_kmeans_v1
+139,6,152,1183.48,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+140,15,157,1412.15,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+141,1,317,2802.36,3,Champions,1,2026-07-20,rfm_kmeans_v1
+142,17,39,342.88,1,Potential,4,2026-07-20,rfm_kmeans_v1
+143,90,47,419.74,1,Potential,4,2026-07-20,rfm_kmeans_v1
+144,253,33,314.84,4,Lost,5,2026-07-20,rfm_kmeans_v1
+145,3,310,2764.0,3,Champions,1,2026-07-20,rfm_kmeans_v1
+146,4,171,1600.4,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+147,441,35,238.83,4,Lost,5,2026-07-20,rfm_kmeans_v1
+148,144,48,406.61,4,Lost,5,2026-07-20,rfm_kmeans_v1
+149,37,143,1337.68,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+150,5,158,1511.92,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+151,490,42,349.57,4,Lost,5,2026-07-20,rfm_kmeans_v1
+152,7,45,328.96,1,Potential,4,2026-07-20,rfm_kmeans_v1
+153,11,152,1230.24,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+154,10,151,1313.96,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+155,1,155,1367.68,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+156,4,164,1369.39,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+157,4,163,1343.1,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+158,24,144,1454.49,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+159,3,312,2590.04,3,Champions,1,2026-07-20,rfm_kmeans_v1
+160,270,39,355.3,4,Lost,5,2026-07-20,rfm_kmeans_v1
+161,1,312,2819.8,3,Champions,1,2026-07-20,rfm_kmeans_v1
+162,291,40,322.93,4,Lost,5,2026-07-20,rfm_kmeans_v1
+163,15,165,1497.64,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+164,17,159,1458.82,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+165,1,310,2764.18,3,Champions,1,2026-07-20,rfm_kmeans_v1
+166,2,164,1455.48,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+167,4,149,1281.66,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+168,418,34,253.06,4,Lost,5,2026-07-20,rfm_kmeans_v1
+169,2,164,1302.15,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+170,62,155,1285.14,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+171,1,163,1601.16,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+172,2,130,1037.97,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+173,231,37,356.47,4,Lost,5,2026-07-20,rfm_kmeans_v1
+174,1,332,2832.34,3,Champions,1,2026-07-20,rfm_kmeans_v1
+175,11,137,1161.6,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+176,162,40,339.1,4,Lost,5,2026-07-20,rfm_kmeans_v1
+177,1,176,1660.28,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+178,63,142,1383.22,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+179,4,160,1473.37,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+180,1,151,1324.03,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+181,14,138,1155.42,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+182,87,44,335.22,1,Potential,4,2026-07-20,rfm_kmeans_v1
+183,1,332,2921.17,3,Champions,1,2026-07-20,rfm_kmeans_v1
+184,7,169,1467.77,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+185,4,165,1412.12,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+186,57,150,1413.68,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+187,2,311,2909.21,3,Champions,1,2026-07-20,rfm_kmeans_v1
+188,63,147,1280.74,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+189,1,162,1522.23,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+190,4,162,1651.76,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+191,1,175,1497.3,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+192,24,137,1154.92,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+193,8,158,1423.75,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+194,3,183,1300.33,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+195,508,50,404.3,4,Lost,5,2026-07-20,rfm_kmeans_v1
+196,5,180,1662.91,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+197,1,297,2539.34,3,Champions,1,2026-07-20,rfm_kmeans_v1
+198,2,154,1490.52,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+199,406,43,348.98,4,Lost,5,2026-07-20,rfm_kmeans_v1
+200,3,158,1319.79,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+201,1,291,2594.49,3,Champions,1,2026-07-20,rfm_kmeans_v1
+202,2,148,1408.75,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+203,1,329,3097.11,3,Champions,1,2026-07-20,rfm_kmeans_v1
+204,55,146,1284.87,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+205,3,154,1275.94,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+206,3,142,1288.89,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+207,53,133,1245.78,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+208,3,171,1529.87,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+209,2,165,1336.36,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+210,1,165,1353.56,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+211,1,147,1357.8,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+212,66,149,1321.27,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+213,3,286,2496.81,3,Champions,1,2026-07-20,rfm_kmeans_v1
+214,42,40,322.4,1,Potential,4,2026-07-20,rfm_kmeans_v1
+215,4,319,2812.05,3,Champions,1,2026-07-20,rfm_kmeans_v1
+216,42,42,338.33,1,Potential,4,2026-07-20,rfm_kmeans_v1
+217,2,182,1504.98,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+218,3,150,1238.01,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+219,18,46,314.96,1,Potential,4,2026-07-20,rfm_kmeans_v1
+220,31,149,1316.52,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+221,18,157,1284.17,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+222,46,146,1248.18,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+223,2,158,1560.0,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+224,471,46,407.44,4,Lost,5,2026-07-20,rfm_kmeans_v1
+225,52,149,1402.23,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+226,15,172,1485.12,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+227,19,147,1259.71,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+228,4,176,1752.03,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+229,2,292,2458.19,3,Champions,1,2026-07-20,rfm_kmeans_v1
+230,219,53,536.84,4,Lost,5,2026-07-20,rfm_kmeans_v1
+231,116,38,407.71,4,Lost,5,2026-07-20,rfm_kmeans_v1
+232,495,39,363.38,4,Lost,5,2026-07-20,rfm_kmeans_v1
+233,17,161,1439.5,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+234,8,159,1408.22,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+235,32,141,1246.8,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+236,67,149,1448.11,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+237,39,41,339.23,1,Potential,4,2026-07-20,rfm_kmeans_v1
+238,12,149,1253.41,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+239,284,38,364.94,4,Lost,5,2026-07-20,rfm_kmeans_v1
+240,1,169,1430.32,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+241,205,45,337.43,4,Lost,5,2026-07-20,rfm_kmeans_v1
+242,1,312,2619.52,3,Champions,1,2026-07-20,rfm_kmeans_v1
+243,98,40,357.47,4,Lost,5,2026-07-20,rfm_kmeans_v1
+244,1,319,2877.27,3,Champions,1,2026-07-20,rfm_kmeans_v1
+245,4,159,1451.7,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+246,22,179,1437.34,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+247,2,172,1591.24,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+248,66,142,1270.02,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+249,85,46,334.05,1,Potential,4,2026-07-20,rfm_kmeans_v1
+250,3,166,1500.48,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+251,21,159,1458.71,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+252,2,318,2875.47,3,Champions,1,2026-07-20,rfm_kmeans_v1
+253,3,151,1354.32,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+254,55,33,306.62,1,Potential,4,2026-07-20,rfm_kmeans_v1
+255,1,157,1476.74,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+256,2,153,1399.17,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+257,13,149,1358.6,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+258,1,164,1624.51,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+259,79,44,307.96,1,Potential,4,2026-07-20,rfm_kmeans_v1
+260,5,164,1447.54,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+261,40,144,1292.98,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+262,40,36,333.63,1,Potential,4,2026-07-20,rfm_kmeans_v1
+263,12,153,1390.29,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+264,1,306,2775.1,3,Champions,1,2026-07-20,rfm_kmeans_v1
+265,529,51,456.74,4,Lost,5,2026-07-20,rfm_kmeans_v1
+266,43,41,359.6,1,Potential,4,2026-07-20,rfm_kmeans_v1
+267,30,157,1419.3099,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+268,221,36,318.61,4,Lost,5,2026-07-20,rfm_kmeans_v1
+269,1,152,1320.47,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+270,5,149,1344.86,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+271,16,147,1359.68,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+272,1,168,1404.23,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+273,59,160,1377.57,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+274,1,144,1198.14,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+275,1,151,1202.04,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+276,5,159,1418.74,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+277,13,156,1429.63,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+278,2,150,1198.68,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+279,4,294,2559.76,3,Champions,1,2026-07-20,rfm_kmeans_v1
+280,22,154,1294.04,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+281,299,34,292.88,4,Lost,5,2026-07-20,rfm_kmeans_v1
+282,1,175,1494.3,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+283,25,161,1455.21,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+284,26,169,1529.19,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+285,1,308,2803.33,3,Champions,1,2026-07-20,rfm_kmeans_v1
+286,50,37,397.84,1,Potential,4,2026-07-20,rfm_kmeans_v1
+287,43,160,1344.18,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+288,9,152,1398.88,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+289,3,153,1256.24,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+290,102,44,384.09,4,Lost,5,2026-07-20,rfm_kmeans_v1
+291,2,315,2733.13,3,Champions,1,2026-07-20,rfm_kmeans_v1
+292,5,141,1204.4,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+293,33,165,1499.42,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+294,1,303,2629.06,3,Champions,1,2026-07-20,rfm_kmeans_v1
+295,20,139,1174.06,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+296,4,53,387.77,1,Potential,4,2026-07-20,rfm_kmeans_v1
+297,23,49,534.24,1,Potential,4,2026-07-20,rfm_kmeans_v1
+298,2,161,1532.01,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+299,25,138,1226.66,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+300,39,158,1380.1,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+301,1,292,2644.51,3,Champions,1,2026-07-20,rfm_kmeans_v1
+302,5,171,1425.6,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+303,4,170,1466.86,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+304,38,162,1495.51,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+305,2,132,1133.39,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+306,2,142,1266.18,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+307,2,174,1487.8,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+308,77,39,365.84,1,Potential,4,2026-07-20,rfm_kmeans_v1
+309,531,44,374.82,4,Lost,5,2026-07-20,rfm_kmeans_v1
+310,1,343,2901.25,3,Champions,1,2026-07-20,rfm_kmeans_v1
+311,428,41,358.28,4,Lost,5,2026-07-20,rfm_kmeans_v1
+312,117,45,451.33,4,Lost,5,2026-07-20,rfm_kmeans_v1
+313,46,139,1305.33,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+314,4,133,1134.45,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+315,164,53,436.0,4,Lost,5,2026-07-20,rfm_kmeans_v1
+316,1,319,2946.64,3,Champions,1,2026-07-20,rfm_kmeans_v1
+317,67,144,1240.5,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+318,5,163,1411.43,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+319,4,153,1421.13,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+320,373,45,551.98,4,Lost,5,2026-07-20,rfm_kmeans_v1
+321,40,139,1267.92,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+322,65,143,1242.17,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+323,103,39,327.74,4,Lost,5,2026-07-20,rfm_kmeans_v1
+324,1,311,2488.74,3,Champions,1,2026-07-20,rfm_kmeans_v1
+325,65,150,1373.42,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+326,17,142,1203.47,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+327,2,140,1385.78,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+328,29,151,1421.1,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+329,272,44,372.86002,4,Lost,5,2026-07-20,rfm_kmeans_v1
+330,29,36,276.17,1,Potential,4,2026-07-20,rfm_kmeans_v1
+331,1,288,2660.34,3,Champions,1,2026-07-20,rfm_kmeans_v1
+332,12,153,1387.52,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+333,2,283,2800.66,3,Champions,1,2026-07-20,rfm_kmeans_v1
+334,4,160,1466.44,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+335,74,41,379.28,1,Potential,4,2026-07-20,rfm_kmeans_v1
+336,111,34,316.83,4,Lost,5,2026-07-20,rfm_kmeans_v1
+337,30,146,1310.32,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+338,66,139,1168.94,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+339,2,310,2840.17,3,Champions,1,2026-07-20,rfm_kmeans_v1
+340,3,168,1479.01,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+341,62,165,1527.72,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+342,3,308,2834.41,3,Champions,1,2026-07-20,rfm_kmeans_v1
+343,2,174,1547.66,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+344,523,29,221.03,4,Lost,5,2026-07-20,rfm_kmeans_v1
+345,1,162,1508.04,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+346,19,137,1148.17,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+347,6,138,1170.4,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+348,247,33,256.6,4,Lost,5,2026-07-20,rfm_kmeans_v1
+349,11,157,1388.45,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+350,3,153,1481.16,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+351,22,164,1377.69,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+352,311,38,393.94,4,Lost,5,2026-07-20,rfm_kmeans_v1
+353,216,39,294.96,4,Lost,5,2026-07-20,rfm_kmeans_v1
+354,38,44,428.54,1,Potential,4,2026-07-20,rfm_kmeans_v1
+355,2,310,2729.94,3,Champions,1,2026-07-20,rfm_kmeans_v1
+356,1,321,2871.71,3,Champions,1,2026-07-20,rfm_kmeans_v1
+357,3,318,2920.39,3,Champions,1,2026-07-20,rfm_kmeans_v1
+358,1,172,1507.84,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+359,44,39,352.5,1,Potential,4,2026-07-20,rfm_kmeans_v1
+360,6,42,343.77,1,Potential,4,2026-07-20,rfm_kmeans_v1
+361,1,162,1444.74,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+362,5,159,1384.86,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+363,3,159,1314.41,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+364,2,170,1604.12,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+365,15,136,1229.47,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+366,7,172,1562.92,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+367,1,162,1330.97,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+368,5,174,1390.04,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+369,3,154,1524.55,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+370,45,156,1460.12,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+371,6,178,1502.96,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+372,5,153,1363.14,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+373,1,150,1179.65,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+374,7,51,451.98,1,Potential,4,2026-07-20,rfm_kmeans_v1
+375,5,148,1203.72,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+376,1,289,2507.63,3,Champions,1,2026-07-20,rfm_kmeans_v1
+377,7,131,1107.59,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+378,1,137,1060.96,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+379,1,187,1592.81,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+380,2,160,1360.21,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+381,4,164,1476.9,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+382,2,149,1347.15,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+383,47,35,399.67,1,Potential,4,2026-07-20,rfm_kmeans_v1
+384,342,44,489.62,4,Lost,5,2026-07-20,rfm_kmeans_v1
+385,1,289,2592.33,3,Champions,1,2026-07-20,rfm_kmeans_v1
+386,13,143,1269.89,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+387,1,290,2548.91,3,Champions,1,2026-07-20,rfm_kmeans_v1
+388,19,34,260.34,1,Potential,4,2026-07-20,rfm_kmeans_v1
+389,66,148,1266.98,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+390,4,163,1457.16,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+391,2,325,2713.7,3,Champions,1,2026-07-20,rfm_kmeans_v1
+392,2,160,1408.42,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+393,8,163,1436.64,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+394,529,46,417.11,4,Lost,5,2026-07-20,rfm_kmeans_v1
+395,2,152,1454.7,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+396,1,161,1515.19,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+397,139,45,395.82,4,Lost,5,2026-07-20,rfm_kmeans_v1
+398,6,127,1061.93,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+399,4,51,470.35,1,Potential,4,2026-07-20,rfm_kmeans_v1
+400,1,154,1283.87,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+401,2,171,1593.76,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+402,2,164,1389.51,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+403,3,145,1362.45,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+404,21,36,282.43,1,Potential,4,2026-07-20,rfm_kmeans_v1
+405,542,35,339.01,4,Lost,5,2026-07-20,rfm_kmeans_v1
+406,5,149,1350.91,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+407,18,129,1189.04,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+408,1,148,1296.85,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+409,7,160,1399.07,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+410,11,139,1216.16,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+411,2,166,1387.7,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+412,1,154,1200.86,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+413,41,147,1229.51,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+414,215,36,325.15,4,Lost,5,2026-07-20,rfm_kmeans_v1
+415,45,49,395.34,1,Potential,4,2026-07-20,rfm_kmeans_v1
+416,1,163,1439.75,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+417,1,149,1416.03,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+418,15,143,1109.95,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+419,4,165,1344.81,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+420,47,140,1150.11,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+421,534,36,379.4,4,Lost,5,2026-07-20,rfm_kmeans_v1
+422,6,139,1262.79,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+423,88,44,433.31,1,Potential,4,2026-07-20,rfm_kmeans_v1
+424,3,181,1518.77,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+425,2,300,2606.55,3,Champions,1,2026-07-20,rfm_kmeans_v1
+426,3,346,3005.3699,3,Champions,1,2026-07-20,rfm_kmeans_v1
+427,11,149,1332.64,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+428,3,137,1191.64,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+429,4,156,1269.35,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+430,6,166,1536.92,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+431,21,142,1329.08,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+432,64,41,335.29,1,Potential,4,2026-07-20,rfm_kmeans_v1
+433,8,155,1490.52,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+434,5,294,2506.03,3,Champions,1,2026-07-20,rfm_kmeans_v1
+435,4,292,2595.79,3,Champions,1,2026-07-20,rfm_kmeans_v1
+436,2,157,1335.92,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+437,1,166,1427.56,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+438,19,58,485.7,1,Potential,4,2026-07-20,rfm_kmeans_v1
+439,91,33,282.1,4,Lost,5,2026-07-20,rfm_kmeans_v1
+440,4,164,1403.18,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+441,18,137,1127.32,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+442,305,41,366.8,4,Lost,5,2026-07-20,rfm_kmeans_v1
+443,5,166,1430.41,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+444,290,38,377.9,4,Lost,5,2026-07-20,rfm_kmeans_v1
+445,33,55,426.47,1,Potential,4,2026-07-20,rfm_kmeans_v1
+446,2,302,2668.14,3,Champions,1,2026-07-20,rfm_kmeans_v1
+447,47,162,1346.83,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+448,13,145,1339.69,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+449,9,47,414.25,1,Potential,4,2026-07-20,rfm_kmeans_v1
+450,187,43,423.61002,4,Lost,5,2026-07-20,rfm_kmeans_v1
+451,16,171,1554.57,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+452,2,144,1241.86,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+453,532,37,294.17,4,Lost,5,2026-07-20,rfm_kmeans_v1
+454,1,306,2852.55,3,Champions,1,2026-07-20,rfm_kmeans_v1
+455,1,309,2687.44,3,Champions,1,2026-07-20,rfm_kmeans_v1
+456,57,29,287.74,1,Potential,4,2026-07-20,rfm_kmeans_v1
+457,9,143,1304.33,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+458,5,146,1371.95,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+459,1,167,1417.11,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+460,1,337,2887.88,3,Champions,1,2026-07-20,rfm_kmeans_v1
+461,1,321,2906.09,3,Champions,1,2026-07-20,rfm_kmeans_v1
+462,32,56,454.03,1,Potential,4,2026-07-20,rfm_kmeans_v1
+463,4,156,1345.33,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+464,7,178,1373.15,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+465,460,37,284.91,4,Lost,5,2026-07-20,rfm_kmeans_v1
+466,262,35,264.06,4,Lost,5,2026-07-20,rfm_kmeans_v1
+467,1,170,1419.5,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+468,2,289,2536.25,3,Champions,1,2026-07-20,rfm_kmeans_v1
+469,9,164,1405.63,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+470,5,146,1293.06,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+471,2,177,1537.31,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+472,2,152,1245.01,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+473,6,138,1218.47,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+474,2,148,1284.84,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+475,1,300,2726.19,3,Champions,1,2026-07-20,rfm_kmeans_v1
+476,4,306,2624.98,3,Champions,1,2026-07-20,rfm_kmeans_v1
+477,56,150,1186.52,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+478,3,179,1492.62,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+479,88,33,377.27,1,Potential,4,2026-07-20,rfm_kmeans_v1
+480,84,41,346.71,1,Potential,4,2026-07-20,rfm_kmeans_v1
+481,2,336,2824.69,3,Champions,1,2026-07-20,rfm_kmeans_v1
+482,1,156,1294.11,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+483,1,153,1277.01,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+484,4,168,1495.19,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+485,126,35,290.1,4,Lost,5,2026-07-20,rfm_kmeans_v1
+486,9,175,1571.12,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+487,11,37,286.74,1,Potential,4,2026-07-20,rfm_kmeans_v1
+488,27,153,1407.92,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+489,12,145,1155.71,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+490,182,41,362.62,4,Lost,5,2026-07-20,rfm_kmeans_v1
+491,22,162,1392.96,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+492,54,150,1389.23,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+493,1,312,2651.27,3,Champions,1,2026-07-20,rfm_kmeans_v1
+494,53,153,1353.79,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+495,3,164,1322.99,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+496,4,166,1481.5599,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+497,2,293,2595.04,3,Champions,1,2026-07-20,rfm_kmeans_v1
+498,258,29,249.14,4,Lost,5,2026-07-20,rfm_kmeans_v1
+499,6,147,1434.54,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+500,6,164,1363.88,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+501,7,168,1487.39,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+502,2,304,2673.91,3,Champions,1,2026-07-20,rfm_kmeans_v1
+503,54,38,291.65,1,Potential,4,2026-07-20,rfm_kmeans_v1
+504,2,142,1273.23,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+505,33,150,1258.36,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+506,60,42,467.33002,1,Potential,4,2026-07-20,rfm_kmeans_v1
+507,49,136,1123.39,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+508,2,176,1597.2,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+509,19,149,1246.52,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+510,189,35,261.1,4,Lost,5,2026-07-20,rfm_kmeans_v1
+511,1,311,2726.85,3,Champions,1,2026-07-20,rfm_kmeans_v1
+512,2,167,1400.6,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+513,1,299,2689.48,3,Champions,1,2026-07-20,rfm_kmeans_v1
+514,1,175,1396.17,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+515,1,314,2761.61,3,Champions,1,2026-07-20,rfm_kmeans_v1
+516,59,150,1333.85,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+517,3,47,429.41,1,Potential,4,2026-07-20,rfm_kmeans_v1
+518,46,153,1337.03,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+519,32,51,418.18,1,Potential,4,2026-07-20,rfm_kmeans_v1
+520,3,171,1540.85,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+521,19,149,1248.27,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+522,5,136,1132.47,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+523,4,163,1340.63,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+524,2,188,1697.54,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+525,255,30,328.55,4,Lost,5,2026-07-20,rfm_kmeans_v1
+526,2,146,1299.99,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+527,38,43,394.0,1,Potential,4,2026-07-20,rfm_kmeans_v1
+528,3,169,1606.95,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+529,33,134,1180.54,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+530,108,39,340.87,4,Lost,5,2026-07-20,rfm_kmeans_v1
+531,4,134,1218.87,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+532,31,138,1111.88,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+533,264,44,373.35,4,Lost,5,2026-07-20,rfm_kmeans_v1
+534,3,275,2353.17,3,Champions,1,2026-07-20,rfm_kmeans_v1
+535,3,320,2700.93,3,Champions,1,2026-07-20,rfm_kmeans_v1
+536,278,50,429.0,4,Lost,5,2026-07-20,rfm_kmeans_v1
+537,63,136,1141.66,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+538,1,153,1421.29,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+539,56,144,1235.2,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+540,3,158,1521.57,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+541,421,43,361.81,4,Lost,5,2026-07-20,rfm_kmeans_v1
+542,5,163,1445.92,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+543,1,163,1316.67,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+544,2,302,2614.08,3,Champions,1,2026-07-20,rfm_kmeans_v1
+545,62,44,383.2,1,Potential,4,2026-07-20,rfm_kmeans_v1
+546,324,38,372.91,4,Lost,5,2026-07-20,rfm_kmeans_v1
+547,4,161,1486.33,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+548,525,43,414.43,4,Lost,5,2026-07-20,rfm_kmeans_v1
+549,68,152,1330.6,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+550,3,162,1355.02,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+551,2,154,1295.59,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+552,50,152,1354.92,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+553,2,153,1347.69,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+554,9,46,365.85,1,Potential,4,2026-07-20,rfm_kmeans_v1
+555,5,296,2751.85,3,Champions,1,2026-07-20,rfm_kmeans_v1
+556,180,42,374.75,4,Lost,5,2026-07-20,rfm_kmeans_v1
+557,1,302,2708.68,3,Champions,1,2026-07-20,rfm_kmeans_v1
+558,4,313,2579.24,3,Champions,1,2026-07-20,rfm_kmeans_v1
+559,1,292,2424.53,3,Champions,1,2026-07-20,rfm_kmeans_v1
+560,2,132,1145.39,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+561,5,153,1266.31,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+562,46,135,1133.35,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+563,5,162,1430.73,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+564,1,311,2803.16,3,Champions,1,2026-07-20,rfm_kmeans_v1
+565,65,156,1374.15,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+566,38,151,1392.55,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+567,537,36,282.63998,4,Lost,5,2026-07-20,rfm_kmeans_v1
+568,14,152,1396.84,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+569,1,164,1482.03,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+570,2,178,1526.47,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+571,16,133,1313.09,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+572,372,44,364.14,4,Lost,5,2026-07-20,rfm_kmeans_v1
+573,4,317,2655.27,3,Champions,1,2026-07-20,rfm_kmeans_v1
+574,5,167,1557.43,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+575,1,318,2721.25,3,Champions,1,2026-07-20,rfm_kmeans_v1
+576,12,133,1182.7,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+577,2,297,2451.85,3,Champions,1,2026-07-20,rfm_kmeans_v1
+578,2,149,1291.07,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+579,134,37,320.05,4,Lost,5,2026-07-20,rfm_kmeans_v1
+580,4,151,1280.06,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+581,14,152,1352.59,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+582,4,158,1245.47,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+583,3,147,1404.34,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+584,5,170,1542.87,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+585,268,42,426.64,4,Lost,5,2026-07-20,rfm_kmeans_v1
+586,4,146,1299.48,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+587,5,148,1294.22,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+588,10,128,1064.1,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+589,6,159,1448.97,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+590,1,181,1712.47,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+591,1,152,1572.7,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+592,4,152,1471.73,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+593,65,138,1157.52,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+594,1,158,1300.16,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+595,13,152,1250.59,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+596,62,173,1485.84,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+597,109,32,308.18,4,Lost,5,2026-07-20,rfm_kmeans_v1
+598,390,43,376.78,4,Lost,5,2026-07-20,rfm_kmeans_v1
+599,1,161,1358.99,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+600,2,142,1183.66,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+601,1,303,2517.88,3,Champions,1,2026-07-20,rfm_kmeans_v1
+602,66,139,1189.18,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+603,18,49,475.17,1,Potential,4,2026-07-20,rfm_kmeans_v1
+604,3,303,2580.46,3,Champions,1,2026-07-20,rfm_kmeans_v1
+605,2,325,2955.28,3,Champions,1,2026-07-20,rfm_kmeans_v1
+606,2,305,2588.18,3,Champions,1,2026-07-20,rfm_kmeans_v1
+607,505,30,303.79,4,Lost,5,2026-07-20,rfm_kmeans_v1
+608,4,155,1300.18,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+609,3,156,1290.82,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+610,1,159,1398.04,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+611,1,166,1424.46,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+612,1,138,1269.07,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+613,68,38,302.5,1,Potential,4,2026-07-20,rfm_kmeans_v1
+614,7,141,1429.93,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+615,10,164,1336.61,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+616,1,308,2692.98,3,Champions,1,2026-07-20,rfm_kmeans_v1
+617,53,42,447.08,1,Potential,4,2026-07-20,rfm_kmeans_v1
+618,4,166,1524.43,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+619,1,170,1446.02,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+620,3,159,1439.4,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+621,1,149,1393.66,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+622,5,153,1436.25,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+623,46,45,366.9,1,Potential,4,2026-07-20,rfm_kmeans_v1
+624,12,152,1280.64,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+625,36,137,1091.14,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+626,4,149,1326.25,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+627,1,152,1224.36,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+628,32,175,1677.23,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+629,1,159,1463.29,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+630,1,159,1430.72,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+631,5,156,1244.89,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+632,266,38,303.6,4,Lost,5,2026-07-20,rfm_kmeans_v1
+633,10,163,1436.91,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+634,2,345,2977.93,3,Champions,1,2026-07-20,rfm_kmeans_v1
+635,16,38,265.04,1,Potential,4,2026-07-20,rfm_kmeans_v1
+636,5,164,1294.44,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+637,1,163,1359.88,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+638,520,34,286.62,4,Lost,5,2026-07-20,rfm_kmeans_v1
+639,1,137,1231.89,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+640,1,144,1259.64,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+641,106,45,338.3,4,Lost,5,2026-07-20,rfm_kmeans_v1
+642,4,148,1359.02,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+643,53,51,427.58002,1,Potential,4,2026-07-20,rfm_kmeans_v1
+644,242,47,356.1,4,Lost,5,2026-07-20,rfm_kmeans_v1
+645,41,45,451.94,1,Potential,4,2026-07-20,rfm_kmeans_v1
+646,18,45,404.4,1,Potential,4,2026-07-20,rfm_kmeans_v1
+647,52,48,424.47,1,Potential,4,2026-07-20,rfm_kmeans_v1
+648,1,305,2709.79,3,Champions,1,2026-07-20,rfm_kmeans_v1
+649,4,151,1287.35,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+650,83,31,253.8,1,Potential,4,2026-07-20,rfm_kmeans_v1
+651,52,152,1274.68,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+652,3,301,2491.52,3,Champions,1,2026-07-20,rfm_kmeans_v1
+653,134,38,284.24,4,Lost,5,2026-07-20,rfm_kmeans_v1
+654,1,167,1518.5,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+655,1,341,3142.78,3,Champions,1,2026-07-20,rfm_kmeans_v1
+656,253,39,336.09,4,Lost,5,2026-07-20,rfm_kmeans_v1
+657,3,164,1498.32,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+658,1,321,2604.11,3,Champions,1,2026-07-20,rfm_kmeans_v1
+659,71,39,316.8,1,Potential,4,2026-07-20,rfm_kmeans_v1
+660,315,35,331.7,4,Lost,5,2026-07-20,rfm_kmeans_v1
+661,11,153,1321.99,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+662,2,141,1410.76,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+663,58,40,316.48,1,Potential,4,2026-07-20,rfm_kmeans_v1
+664,16,144,1347.99,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+665,1,153,1316.79,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+666,1,163,1324.19,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+667,193,37,258.25,4,Lost,5,2026-07-20,rfm_kmeans_v1
+668,25,34,220.5,1,Potential,4,2026-07-20,rfm_kmeans_v1
+669,28,37,263.45,1,Potential,4,2026-07-20,rfm_kmeans_v1
+670,4,163,1386.57,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+671,1,299,2409.73,3,Champions,1,2026-07-20,rfm_kmeans_v1
+672,1,294,2461.62,3,Champions,1,2026-07-20,rfm_kmeans_v1
+673,1,283,2293.81,3,Champions,1,2026-07-20,rfm_kmeans_v1
+674,6,142,1242.33,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+675,4,146,1224.8,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+676,9,145,1356.23,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+677,8,165,1386.71,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+678,27,40,398.89,1,Potential,4,2026-07-20,rfm_kmeans_v1
+679,6,151,1286.63,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+680,11,161,1416.5,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+681,3,170,1441.38,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+682,18,143,1300.01,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+683,4,295,2577.78,3,Champions,1,2026-07-20,rfm_kmeans_v1
+684,68,140,1246.98,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+685,515,27,241.07,4,Lost,5,2026-07-20,rfm_kmeans_v1
+686,2,285,2540.18,3,Champions,1,2026-07-20,rfm_kmeans_v1
+687,36,43,358.8,1,Potential,4,2026-07-20,rfm_kmeans_v1
+688,58,40,356.9,1,Potential,4,2026-07-20,rfm_kmeans_v1
+689,252,49,470.05,4,Lost,5,2026-07-20,rfm_kmeans_v1
+690,5,143,1146.16,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+691,4,340,3016.34,3,Champions,1,2026-07-20,rfm_kmeans_v1
+692,1,297,2650.68,3,Champions,1,2026-07-20,rfm_kmeans_v1
+693,232,41,357.07,4,Lost,5,2026-07-20,rfm_kmeans_v1
+694,55,140,1325.47,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+695,1,157,1289.35,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+696,7,44,385.08,1,Potential,4,2026-07-20,rfm_kmeans_v1
+697,1,154,1333.73,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+698,5,164,1430.87,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+699,1,157,1264.26,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+700,14,151,1311.99,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+701,2,306,2764.46,3,Champions,1,2026-07-20,rfm_kmeans_v1
+702,322,34,291.51,4,Lost,5,2026-07-20,rfm_kmeans_v1
+703,9,45,452.4,1,Potential,4,2026-07-20,rfm_kmeans_v1
+704,18,31,234.86,1,Potential,4,2026-07-20,rfm_kmeans_v1
+705,1,146,1248.66,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+706,4,187,1575.09,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+707,2,301,2613.59,3,Champions,1,2026-07-20,rfm_kmeans_v1
+708,1,279,2328.57,3,Champions,1,2026-07-20,rfm_kmeans_v1
+709,3,319,2857.89,3,Champions,1,2026-07-20,rfm_kmeans_v1
+710,4,287,2523.95,3,Champions,1,2026-07-20,rfm_kmeans_v1
+711,3,156,1340.92,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+712,57,46,538.81,1,Potential,4,2026-07-20,rfm_kmeans_v1
+713,1,298,2772.89,3,Champions,1,2026-07-20,rfm_kmeans_v1
+714,39,165,1506.6,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+715,2,300,2606.23,3,Champions,1,2026-07-20,rfm_kmeans_v1
+716,39,41,351.17,1,Potential,4,2026-07-20,rfm_kmeans_v1
+717,3,158,1376.52,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+718,2,150,1247.13,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+719,146,37,292.68,4,Lost,5,2026-07-20,rfm_kmeans_v1
+720,1,285,2549.47,3,Champions,1,2026-07-20,rfm_kmeans_v1
+721,358,42,399.23,4,Lost,5,2026-07-20,rfm_kmeans_v1
+722,7,150,1369.28,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+723,1,172,1570.7,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+724,42,43,373.41,1,Potential,4,2026-07-20,rfm_kmeans_v1
+725,8,151,1418.13,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+726,91,43,435.4,1,Potential,4,2026-07-20,rfm_kmeans_v1
+727,432,44,379.3,4,Lost,5,2026-07-20,rfm_kmeans_v1
+728,1,299,2598.79,3,Champions,1,2026-07-20,rfm_kmeans_v1
+729,1,314,2575.69,3,Champions,1,2026-07-20,rfm_kmeans_v1
+730,1,304,2663.98,3,Champions,1,2026-07-20,rfm_kmeans_v1
+731,438,39,371.67,4,Lost,5,2026-07-20,rfm_kmeans_v1
+732,403,37,316.33,4,Lost,5,2026-07-20,rfm_kmeans_v1
+733,22,35,351.6,1,Potential,4,2026-07-20,rfm_kmeans_v1
+734,48,136,1207.56,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+735,3,181,1487.65,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+736,6,150,1344.78,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+737,178,36,228.69,4,Lost,5,2026-07-20,rfm_kmeans_v1
+738,330,51,474.55,4,Lost,5,2026-07-20,rfm_kmeans_v1
+739,10,47,440.28,1,Potential,4,2026-07-20,rfm_kmeans_v1
+740,2,148,1488.0599,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+741,1,313,2848.96,3,Champions,1,2026-07-20,rfm_kmeans_v1
+742,12,152,1400.08,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+743,2,155,1493.36,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+744,4,181,1599.9,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+745,63,144,1180.88,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+746,2,319,2758.01,3,Champions,1,2026-07-20,rfm_kmeans_v1
+747,74,44,371.87,1,Potential,4,2026-07-20,rfm_kmeans_v1
+748,302,41,382.63,4,Lost,5,2026-07-20,rfm_kmeans_v1
+749,5,167,1366.28,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+750,4,304,2915.51,3,Champions,1,2026-07-20,rfm_kmeans_v1
+751,26,163,1382.61,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+752,2,149,1274.88,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+753,313,43,332.58,4,Lost,5,2026-07-20,rfm_kmeans_v1
+754,53,44,369.75,1,Potential,4,2026-07-20,rfm_kmeans_v1
+755,4,153,1229.86,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+756,5,153,1281.73,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+757,419,54,483.48,4,Lost,5,2026-07-20,rfm_kmeans_v1
+758,2,180,1462.15,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+759,39,163,1279.06,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+760,47,163,1363.39,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+761,30,151,1360.97,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+762,15,150,1338.72,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+763,2,172,1549.46,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+764,425,29,257.8,4,Lost,5,2026-07-20,rfm_kmeans_v1
+765,46,164,1465.08,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+766,6,134,1145.06,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+767,1,160,1383.13,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+768,4,154,1357.26,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+769,1,328,2805.54,3,Champions,1,2026-07-20,rfm_kmeans_v1
+770,2,149,1287.97,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+771,2,172,1478.88,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+772,1,295,2566.86,3,Champions,1,2026-07-20,rfm_kmeans_v1
+773,2,49,470.15,1,Potential,4,2026-07-20,rfm_kmeans_v1
+774,24,147,1168.0,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+775,23,150,1256.99,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+776,4,168,1504.63,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+777,1,168,1494.35,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+778,164,34,291.95,4,Lost,5,2026-07-20,rfm_kmeans_v1
+779,20,35,376.45,1,Potential,4,2026-07-20,rfm_kmeans_v1
+780,15,173,1575.37,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+781,2,337,2820.4,3,Champions,1,2026-07-20,rfm_kmeans_v1
+782,196,40,399.24,4,Lost,5,2026-07-20,rfm_kmeans_v1
+783,100,43,405.6,4,Lost,5,2026-07-20,rfm_kmeans_v1
+784,2,169,1589.54,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+785,1,179,1631.37,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+786,52,45,359.62,1,Potential,4,2026-07-20,rfm_kmeans_v1
+787,2,140,1143.43,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+788,3,156,1433.09,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+789,5,159,1343.75,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+790,4,312,2660.43,3,Champions,1,2026-07-20,rfm_kmeans_v1
+791,12,157,1285.96,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+792,49,136,1245.09,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+793,42,150,1277.13,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+794,2,155,1355.27,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+795,2,138,1270.36,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+796,59,134,1137.95,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+797,2,310,2732.17,3,Champions,1,2026-07-20,rfm_kmeans_v1
+798,7,40,349.38,1,Potential,4,2026-07-20,rfm_kmeans_v1
+799,118,35,291.8,4,Lost,5,2026-07-20,rfm_kmeans_v1
+800,4,166,1507.0,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+801,32,148,1212.73,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+802,43,52,442.65,1,Potential,4,2026-07-20,rfm_kmeans_v1
+803,3,158,1458.24,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+804,2,284,2350.72,3,Champions,1,2026-07-20,rfm_kmeans_v1
+805,9,45,365.9,1,Potential,4,2026-07-20,rfm_kmeans_v1
+806,18,154,1338.64,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+807,5,152,1247.22,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+808,40,145,1245.68,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+809,18,143,1398.97,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+810,46,37,385.08,1,Potential,4,2026-07-20,rfm_kmeans_v1
+811,30,147,1310.67,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+812,64,137,1197.23,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+813,525,35,273.53,4,Lost,5,2026-07-20,rfm_kmeans_v1
+814,18,136,1171.51,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+815,17,138,1301.06,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+816,3,301,2430.75,3,Champions,1,2026-07-20,rfm_kmeans_v1
+817,9,134,1145.77,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+818,24,41,302.92,1,Potential,4,2026-07-20,rfm_kmeans_v1
+819,8,150,1363.28,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+820,10,163,1474.14,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+821,5,128,1198.75,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+822,23,143,1236.83,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+823,196,41,372.4,4,Lost,5,2026-07-20,rfm_kmeans_v1
+824,2,171,1512.13,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+825,31,37,429.61,1,Potential,4,2026-07-20,rfm_kmeans_v1
+826,1,172,1440.92,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+827,2,177,1445.75,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+828,63,51,485.32,1,Potential,4,2026-07-20,rfm_kmeans_v1
+829,36,154,1320.34,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+830,35,145,1242.17,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+831,4,181,1582.06,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+832,24,159,1298.83,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+833,45,138,1201.88,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+834,145,49,410.88,4,Lost,5,2026-07-20,rfm_kmeans_v1
+835,18,162,1380.27,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+836,24,150,1287.08,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+837,2,294,2591.92,3,Champions,1,2026-07-20,rfm_kmeans_v1
+838,11,135,1391.4,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+839,3,287,2505.45,3,Champions,1,2026-07-20,rfm_kmeans_v1
+840,44,183,1681.01,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+841,42,154,1439.87,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+842,3,163,1492.41,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+843,1,302,2681.14,3,Champions,1,2026-07-20,rfm_kmeans_v1
+844,111,46,351.25,4,Lost,5,2026-07-20,rfm_kmeans_v1
+845,1,149,1277.96,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+846,4,172,1488.73,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+847,43,163,1428.18,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+848,3,307,2845.16,3,Champions,1,2026-07-20,rfm_kmeans_v1
+849,3,172,1684.81,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+850,1,146,1313.59,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+851,1,332,2858.51,3,Champions,1,2026-07-20,rfm_kmeans_v1
+852,209,43,393.22,4,Lost,5,2026-07-20,rfm_kmeans_v1
+853,5,156,1395.35,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+854,1,291,2804.09,3,Champions,1,2026-07-20,rfm_kmeans_v1
+855,2,297,2648.16,3,Champions,1,2026-07-20,rfm_kmeans_v1
+856,75,172,1493.4,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+857,538,44,442.78,4,Lost,5,2026-07-20,rfm_kmeans_v1
+858,2,165,1415.71,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+859,7,138,1163.61,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+860,1,167,1575.23,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+861,32,49,387.55,1,Potential,4,2026-07-20,rfm_kmeans_v1
+862,487,35,256.32,4,Lost,5,2026-07-20,rfm_kmeans_v1
+863,60,162,1413.99,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+864,20,135,1273.03,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+865,6,182,1608.89,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+866,2,331,2968.06,3,Champions,1,2026-07-20,rfm_kmeans_v1
+867,61,168,1541.32,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+868,4,177,1607.08,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+869,4,162,1347.74,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+870,364,45,292.38,4,Lost,5,2026-07-20,rfm_kmeans_v1
+871,62,164,1516.01,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+872,7,148,1240.08,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+873,119,57,482.41,4,Lost,5,2026-07-20,rfm_kmeans_v1
+874,1,346,3041.3699,3,Champions,1,2026-07-20,rfm_kmeans_v1
+875,228,40,333.9,4,Lost,5,2026-07-20,rfm_kmeans_v1
+876,1,159,1315.31,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+877,268,35,350.13,4,Lost,5,2026-07-20,rfm_kmeans_v1
+878,8,169,1467.55,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+879,4,163,1377.41,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+880,305,45,381.31,4,Lost,5,2026-07-20,rfm_kmeans_v1
+881,2,293,2432.39,3,Champions,1,2026-07-20,rfm_kmeans_v1
+882,19,164,1415.42,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+883,4,168,1364.54,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+884,280,33,288.9,4,Lost,5,2026-07-20,rfm_kmeans_v1
+885,3,142,1223.22,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+886,223,38,366.4,4,Lost,5,2026-07-20,rfm_kmeans_v1
+887,1,177,1626.46,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+888,3,166,1364.86,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+889,3,165,1459.1901,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+890,262,32,241.02,4,Lost,5,2026-07-20,rfm_kmeans_v1
+891,13,39,363.22,1,Potential,4,2026-07-20,rfm_kmeans_v1
+892,2,159,1531.44,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+893,3,170,1481.83,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+894,37,158,1408.31,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+895,3,169,1519.57,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+896,65,161,1544.27,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+897,60,36,398.92,1,Potential,4,2026-07-20,rfm_kmeans_v1
+898,301,41,344.32,4,Lost,5,2026-07-20,rfm_kmeans_v1
+899,1,173,1531.66,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+900,6,151,1259.16,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+901,4,166,1491.96,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+902,448,33,274.98,4,Lost,5,2026-07-20,rfm_kmeans_v1
+903,1,320,2927.11,3,Champions,1,2026-07-20,rfm_kmeans_v1
+904,3,122,1070.21,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+905,31,163,1438.08,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+906,12,181,1630.08,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+907,9,174,1623.03,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+908,11,149,1344.21,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+909,26,141,1153.47,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+910,23,150,1237.01,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+911,12,154,1316.19,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+912,2,317,2584.21,3,Champions,1,2026-07-20,rfm_kmeans_v1
+913,3,149,1199.52,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+914,1,156,1448.41,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+915,26,149,1302.54,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+916,39,37,314.47,1,Potential,4,2026-07-20,rfm_kmeans_v1
+917,2,319,2811.72,3,Champions,1,2026-07-20,rfm_kmeans_v1
+918,12,48,495.07,1,Potential,4,2026-07-20,rfm_kmeans_v1
+919,3,143,1218.65,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+920,3,151,1336.43,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+921,21,152,1359.76,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+922,2,151,1171.65,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+923,236,48,329.02,4,Lost,5,2026-07-20,rfm_kmeans_v1
+924,1,140,1298.73,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+925,2,338,2974.17,3,Champions,1,2026-07-20,rfm_kmeans_v1
+926,5,146,1154.29,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+927,1,158,1334.55,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+928,3,319,2757.3,3,Champions,1,2026-07-20,rfm_kmeans_v1
+929,2,311,2737.82,3,Champions,1,2026-07-20,rfm_kmeans_v1
+930,3,167,1463.4,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+931,2,161,1377.11,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+932,39,41,351.76,1,Potential,4,2026-07-20,rfm_kmeans_v1
+933,4,40,380.9,1,Potential,4,2026-07-20,rfm_kmeans_v1
+934,1,304,2680.38,3,Champions,1,2026-07-20,rfm_kmeans_v1
+935,418,40,347.3,4,Lost,5,2026-07-20,rfm_kmeans_v1
+936,4,143,1382.65,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+937,5,297,2580.48,3,Champions,1,2026-07-20,rfm_kmeans_v1
+938,72,133,1117.69,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+939,23,146,1156.89,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+940,5,167,1439.75,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+941,148,44,326.9,4,Lost,5,2026-07-20,rfm_kmeans_v1
+942,53,141,1275.31,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+943,52,34,320.75,1,Potential,4,2026-07-20,rfm_kmeans_v1
+944,18,162,1476.39,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+945,1,156,1328.79,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+946,72,142,1192.17,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+947,182,32,256.02,4,Lost,5,2026-07-20,rfm_kmeans_v1
+948,98,45,382.74,4,Lost,5,2026-07-20,rfm_kmeans_v1
+949,192,41,331.4,4,Lost,5,2026-07-20,rfm_kmeans_v1
+950,3,309,2540.87,3,Champions,1,2026-07-20,rfm_kmeans_v1
+951,1,137,1229.0,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+952,5,46,401.49,1,Potential,4,2026-07-20,rfm_kmeans_v1
+953,2,336,2775.87,3,Champions,1,2026-07-20,rfm_kmeans_v1
+954,308,41,345.12,4,Lost,5,2026-07-20,rfm_kmeans_v1
+955,7,163,1422.22,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+956,1,173,1616.16,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+957,19,31,241.57,1,Potential,4,2026-07-20,rfm_kmeans_v1
+958,520,50,412.57,4,Lost,5,2026-07-20,rfm_kmeans_v1
+959,77,54,466.57,1,Potential,4,2026-07-20,rfm_kmeans_v1
+960,33,156,1382.5,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+961,1,304,2667.06,3,Champions,1,2026-07-20,rfm_kmeans_v1
+962,2,293,2546.52,3,Champions,1,2026-07-20,rfm_kmeans_v1
+963,2,172,1485.36,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+964,45,134,1239.05,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+965,1,152,1377.58,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+966,2,144,1340.64,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+967,4,300,2800.82,3,Champions,1,2026-07-20,rfm_kmeans_v1
+968,4,154,1528.81,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+969,2,275,2428.81,3,Champions,1,2026-07-20,rfm_kmeans_v1
+970,473,33,266.18,4,Lost,5,2026-07-20,rfm_kmeans_v1
+971,3,286,2311.05,3,Champions,1,2026-07-20,rfm_kmeans_v1
+972,532,46,404.71,4,Lost,5,2026-07-20,rfm_kmeans_v1
+973,2,159,1397.15,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+974,39,29,230.5,1,Potential,4,2026-07-20,rfm_kmeans_v1
+975,20,162,1397.52,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+976,1,144,1258.64,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+977,25,150,1395.88,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+978,62,156,1322.07,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+979,17,148,1312.21,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+980,5,151,1234.53,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+981,4,168,1639.01,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+982,2,291,2579.9,3,Champions,1,2026-07-20,rfm_kmeans_v1
+983,1,146,1309.92,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+984,3,152,1384.16,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+985,2,185,1527.92,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+986,3,303,2673.88,3,Champions,1,2026-07-20,rfm_kmeans_v1
+987,391,36,291.78,4,Lost,5,2026-07-20,rfm_kmeans_v1
+988,159,41,403.72,4,Lost,5,2026-07-20,rfm_kmeans_v1
+989,184,42,291.5,4,Lost,5,2026-07-20,rfm_kmeans_v1
+990,1,291,2526.22,3,Champions,1,2026-07-20,rfm_kmeans_v1
+991,6,157,1472.51,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+992,153,44,458.98,4,Lost,5,2026-07-20,rfm_kmeans_v1
+993,3,162,1376.46,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+994,2,299,2796.33,3,Champions,1,2026-07-20,rfm_kmeans_v1
+995,2,154,1467.96,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+996,1,310,2887.77,3,Champions,1,2026-07-20,rfm_kmeans_v1
+997,1,166,1511.44,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+998,1,153,1371.11,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+999,129,46,362.84,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1000,10,141,1283.31,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1001,5,33,267.5,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1002,1,306,2745.27,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1003,24,145,1356.16,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1004,23,145,1149.22,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1005,532,29,241.8,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1006,9,148,1248.07,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1007,592,46,418.08,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1008,2,173,1409.22,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1009,3,159,1404.15,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1010,2,160,1388.07,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1011,60,147,1188.24,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1012,75,41,346.61,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1013,1,159,1646.56,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1014,3,167,1548.53,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1015,8,162,1332.26,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1016,32,47,437.03,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1017,4,161,1359.72,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1018,4,134,1305.64,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1019,1,323,2671.61,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1020,25,142,1245.88,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1021,43,127,1188.89,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1022,25,149,1399.99,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1023,9,149,1336.29,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1024,573,43,381.33,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1025,3,163,1470.91,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1026,1,294,2683.01,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1027,648,44,420.5,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1028,62,164,1444.04,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1029,20,146,1215.43,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1030,4,141,1324.04,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1031,45,146,1295.97,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1032,1,167,1681.28,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1033,11,153,1459.85,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1034,4,297,2546.6,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1035,2,174,1632.18,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1036,1,169,1698.11,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1037,3,135,1159.46,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1038,7,132,1064.31,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1039,2,344,2953.26,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1040,222,39,407.24,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1041,3,155,1304.74,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1042,10,152,1341.34,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1043,2,168,1430.91,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1044,10,160,1427.97,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1045,4,314,2745.45,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1046,12,142,1247.15,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1047,18,32,289.09,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1048,30,151,1271.16,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1049,9,136,1231.38,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1050,12,150,1339.86,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1051,7,48,389.4,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1052,28,156,1430.17,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1053,3,161,1410.86,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1054,5,179,1623.36,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1055,2,174,1627.74,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1056,2,160,1441.6,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1057,4,180,1728.2,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1058,71,126,1164.13,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1059,1,170,1649.46,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1060,142,43,397.18,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1061,3,160,1322.08,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1062,7,143,1325.99,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1063,1,169,1383.17,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1064,4,173,1573.93,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1065,9,49,342.21,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1066,1,190,1591.1,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1067,1,305,2810.6,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1068,2,148,1257.38,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1069,264,44,381.88998,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1070,56,112,1101.85,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1071,2,295,2419.66,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1072,39,168,1427.52,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1073,1,157,1446.27,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1074,9,148,1322.14,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1075,5,171,1625.07,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1076,4,136,1097.6,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1077,17,166,1396.24,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1078,401,36,322.04,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1079,279,43,345.57,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1080,3,144,1234.35,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1081,13,148,1132.16,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1082,4,171,1563.85,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1083,1,171,1334.13,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1084,2,159,1439.26,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1085,31,39,386.54,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1086,4,142,1202.98,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1087,12,43,330.28,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1088,3,323,2691.8,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1089,250,37,333.1,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1090,237,45,390.1,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1091,323,28,217.75,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1092,1,307,2652.48,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1093,53,36,345.41,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1094,1,161,1490.44,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1095,1,318,2690.06,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1096,1,308,2578.39,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1097,8,167,1362.51,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1098,3,164,1304.65,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1099,530,30,261.34,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1100,31,137,1279.13,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1101,16,161,1529.73,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1102,5,311,2603.89,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1103,11,139,1259.84,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1104,64,158,1343.88,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1105,3,174,1546.68,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1106,8,36,252.95,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1107,39,142,1248.43,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1108,1,145,1303.69,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1109,22,132,1189.34,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1110,7,33,315.86002,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1111,18,159,1381.71,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1112,3,155,1481.14,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1113,181,41,348.4,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1114,4,155,1319.11,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1115,2,171,1495.0,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1116,4,157,1357.01,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1117,5,137,1430.47,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1118,4,299,2392.92,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1119,2,165,1370.07,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1120,277,50,433.76,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1121,525,32,192.71,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1122,51,43,420.8,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1123,1,287,2712.22,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1124,24,152,1329.24,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1125,1,164,1444.74,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1126,16,146,1360.11,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1127,2,294,2510.24,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1128,61,39,343.43,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1129,1,175,1416.6,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1130,45,46,359.15,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1131,80,34,330.0,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1132,37,52,458.04,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1133,9,140,1189.21,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1134,2,151,1326.01,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1135,11,150,1309.12,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1136,9,165,1515.84,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1137,62,52,452.48,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1138,13,134,1364.36,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1139,28,38,327.9,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1140,5,162,1467.93,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1141,1,159,1318.81,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1142,158,52,457.27,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1143,4,173,1497.04,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1144,4,166,1493.87,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1145,381,45,425.32,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1146,296,47,459.74,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1147,1,155,1323.04,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1148,11,182,1390.8099,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1149,18,138,1162.7,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1150,10,133,1243.97,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1151,12,138,1271.17,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1152,64,163,1473.96,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1153,17,145,1279.27,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1154,529,35,333.05,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1155,2,305,2630.44,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1156,5,310,2861.45,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1157,64,43,444.66,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1158,60,39,299.1,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1159,1,172,1607.19,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1160,5,153,1347.81,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1161,3,149,1323.3,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1162,56,153,1282.8,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1163,10,144,1285.96,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1164,2,315,2674.54,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1165,52,153,1320.71,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1166,9,156,1383.38,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1167,393,36,360.89,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1168,150,35,325.78,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1169,1,318,2752.71,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1170,200,52,524.45,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1171,312,53,487.32,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1172,244,48,375.76,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1173,59,135,1202.14,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1174,2,171,1538.32,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1175,5,131,1293.26,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1176,9,135,1137.24,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1177,1,154,1248.28,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1178,46,163,1535.48,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1179,50,140,1372.95,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1180,4,175,1465.46,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1181,351,47,404.72,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1182,2,166,1372.13,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1183,9,167,1432.59,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1184,46,151,1415.01,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1185,1,148,1337.91,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1186,5,146,1100.68,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1187,39,140,1294.71,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1188,28,135,1185.45,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1189,2,151,1306.16,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1190,44,42,364.38,1,Potential,4,2026-07-20,rfm_kmeans_v1
+1191,2,285,2521.35,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1192,165,44,433.8,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1193,4,295,2659.08,3,Champions,1,2026-07-20,rfm_kmeans_v1
+1194,522,34,306.43,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1195,1,156,1336.47,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1196,2,146,1246.26,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1197,27,148,1358.0,0,At Risk,3,2026-07-20,rfm_kmeans_v1
+1198,1,165,1399.68,2,Loyal,2,2026-07-20,rfm_kmeans_v1
+1199,268,36,330.1,4,Lost,5,2026-07-20,rfm_kmeans_v1
+1200,1,298,2711.35,3,Champions,1,2026-07-20,rfm_kmeans_v1

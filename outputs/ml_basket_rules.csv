@@ -1,0 +1,47 @@
+﻿antecedente;consecuente;cat_antecedente;cat_consecuente;soporte;confianza;lift;franja;n_tickets;fecha_calculo;version_modelo
+Kombucha;Tosta Aguacate;Bebida;Tosta;0,0134;0,2571;3,459;Mañana;2392;2026-07-17;fpgrowth_v1
+Tosta Aguacate;Kombucha;Tosta;Bebida;0,0134;0,1797;3,459;Mañana;2392;2026-07-17;fpgrowth_v1
+Espresso;Tosta Mantequilla Miel;Café;Tosta;0,0091;0,1869;2,932;Global;1637;2026-07-17;fpgrowth_v1
+Tosta Mantequilla Miel;Espresso;Tosta;Café;0,0221;0,1421;2,847;Mediodía;3950;2026-07-17;fpgrowth_v1
+Tosta Salmón;Kombucha;Tosta;Bebida;0,008;0,1877;2,773;Global;1433;2026-07-17;fpgrowth_v1
+Banana Bread;Filter Coffee;Bakery;Café;0,0107;0,1912;2,761;Apertura;1920;2026-07-17;fpgrowth_v1
+Filter Coffee;Banana Bread;Café;Bakery;0,0107;0,1548;2,761;Apertura;1920;2026-07-17;fpgrowth_v1
+Café con Leche;Tosta Tomate;Café;Tosta;0,0216;0,3052;2,336;Mediodía;3867;2026-07-17;fpgrowth_v1
+Tosta Tomate;Café con Leche;Tosta;Café;0,0216;0,1653;2,336;Mediodía;3867;2026-07-17;fpgrowth_v1
+Cookie;Latte;Bakery;Café;0,0102;0,2622;2,077;Global;1824;2026-07-17;fpgrowth_v1
+Flat White;Croissant Mantequilla;Café;Bakery;0,0199;0,2157;2,02;Mediodía;3561;2026-07-17;fpgrowth_v1
+Croissant Mantequilla;Flat White;Bakery;Café;0,0199;0,1862;2,02;Mediodía;3561;2026-07-17;fpgrowth_v1
+Latte;Cookie;Café;Bakery;0,0109;0,0804;1,946;Mañana;1950;2026-07-17;fpgrowth_v1
+Latte;Croissant Mantequilla;Café;Bakery;0,0156;0,1949;1,825;Mediodía;2788;2026-07-17;fpgrowth_v1
+Croissant Mantequilla;Latte;Bakery;Café;0,0156;0,1458;1,825;Mediodía;2788;2026-07-17;fpgrowth_v1
+Kombucha;Tosta Salmón;Bebida;Tosta;0,0219;0,1922;1,817;Mediodía;3917;2026-07-17;fpgrowth_v1
+Cappuccino;Croissant Pistacho;Café;Bakery;0,0134;0,1742;1,781;Global;2409;2026-07-17;fpgrowth_v1
+Chai Latte;Tosta Aguacate;Café;Tosta;0,0101;0,4013;1,659;Mediodía;1816;2026-07-17;fpgrowth_v1
+Tosta Aguacate;Chai Latte;Tosta;Café;0,0101;0,0419;1,659;Mediodía;1816;2026-07-17;fpgrowth_v1
+Croissant Pistacho;Cappuccino;Bakery;Café;0,0148;0,138;1,65;Mañana;2653;2026-07-17;fpgrowth_v1
+Matcha Latte;Tosta Aguacate;Café;Tosta;0,0139;0,3852;1,592;Mediodía;2498;2026-07-17;fpgrowth_v1
+Tosta Aguacate;Matcha Latte;Tosta;Café;0,0139;0,0577;1,592;Mediodía;2498;2026-07-17;fpgrowth_v1
+Café con Leche;Tosta Mantequilla Miel;Café;Tosta;0,0153;0,2157;1,39;Mediodía;2734;2026-07-17;fpgrowth_v1
+Tosta Mantequilla Miel;Café con Leche;Tosta;Café;0,0153;0,0983;1,39;Mediodía;2734;2026-07-17;fpgrowth_v1
+Banana Bread;Latte;Bakery;Café;0,008;0,1648;1,306;Global;1441;2026-07-17;fpgrowth_v1
+Pain au Chocolat;Flat White;Bakery;Café;0,0136;0,1782;1,278;Global;2442;2026-07-17;fpgrowth_v1
+Flat White;Pain au Chocolat;Café;Bakery;0,0199;0,1073;1,226;Apertura;3560;2026-07-17;fpgrowth_v1
+Matcha Latte;Croissant Mantequilla;Café;Bakery;0,0129;0,2495;1,164;Apertura;2316;2026-07-17;fpgrowth_v1
+Croissant Mantequilla;Matcha Latte;Bakery;Café;0,0129;0,0603;1,164;Apertura;2316;2026-07-17;fpgrowth_v1
+Latte;Banana Bread;Café;Bakery;0,0105;0,0605;1,08;Apertura;1888;2026-07-17;fpgrowth_v1
+Croissant Pistacho;Flat White;Bakery;Café;0,0162;0,1455;0,786;Apertura;2909;2026-07-17;fpgrowth_v1
+Flat White;Croissant Pistacho;Café;Bakery;0,0162;0,0877;0,786;Apertura;2909;2026-07-17;fpgrowth_v1
+Cappuccino;Croissant Mantequilla;Café;Bakery;0,0123;0,1472;0,749;Mañana;2206;2026-07-17;fpgrowth_v1
+Croissant Mantequilla;Cappuccino;Bakery;Café;0,0123;0,0627;0,749;Mañana;2206;2026-07-17;fpgrowth_v1
+Café con Leche;Croissant Mantequilla;Café;Bakery;0,0132;0,1522;0,71;Apertura;2373;2026-07-17;fpgrowth_v1
+Croissant Mantequilla;Café con Leche;Bakery;Café;0,0132;0,0618;0,71;Apertura;2373;2026-07-17;fpgrowth_v1
+Cortado;Croissant Mantequilla;Café;Bakery;0,0104;0,1466;0,684;Apertura;1869;2026-07-17;fpgrowth_v1
+Croissant Mantequilla;Cortado;Bakery;Café;0,0104;0,0487;0,684;Apertura;1869;2026-07-17;fpgrowth_v1
+Kombucha;Croissant Mantequilla;Bebida;Bakery;0,011;0,1427;0,648;Tarde;1965;2026-07-17;fpgrowth_v1
+Croissant Mantequilla;Kombucha;Bakery;Bebida;0,011;0,0498;0,648;Tarde;1965;2026-07-17;fpgrowth_v1
+Croissant Mantequilla;Tosta Aguacate;Bakery;Tosta;0,0161;0,1505;0,622;Mediodía;2879;2026-07-17;fpgrowth_v1
+Tosta Aguacate;Croissant Mantequilla;Tosta;Bakery;0,0161;0,0664;0,622;Mediodía;2879;2026-07-17;fpgrowth_v1
+Croissant Pistacho;Latte;Bakery;Café;0,0115;0,1034;0,594;Apertura;2067;2026-07-17;fpgrowth_v1
+Latte;Croissant Pistacho;Café;Bakery;0,0115;0,0662;0,594;Apertura;2067;2026-07-17;fpgrowth_v1
+Flat White;Tosta Aguacate;Café;Tosta;0,0119;0,1295;0,535;Mediodía;2138;2026-07-17;fpgrowth_v1
+Tosta Aguacate;Flat White;Tosta;Café;0,0119;0,0494;0,535;Mediodía;2138;2026-07-17;fpgrowth_v1
