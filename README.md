@@ -60,6 +60,10 @@ jupyter lab notebooks/
 
 El dataset es sintético, con semilla fija (seed=42): en un negocio real los porcentajes exactos cambiarían, aunque el patrón de fondo —concentración de valor tipo Pareto, combos cross-categoría por franja— se mantendría. El silhouette del clustering es moderado (~0,3), algo esperable en un dataset simulado con menos ruido del que tendría uno real.
 
+## Licencia
+
+El código está bajo licencia [MIT](LICENSE). El dataset es sintético, generado para este proyecto.
+
 ---
 
 **Autor:** Borja Mora Méndez · [Portfolio](https://borjamora.es) · [LinkedIn](https://www.linkedin.com/in/borjamoramendez/) · [GitHub](https://github.com/BORJAMOME)
