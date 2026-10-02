@@ -1,7 +1,5 @@
-@"
 [tool.pytest.ini_options]
-minversion = ""8.0""
-testpaths = [""tests""]
-python_files = [""test_*.py""]
-addopts = [""-v"", ""--tb=short"", ""--strict-markers""]
-"@ | Out-File -Encoding UTF8 pyproject.toml
+minversion = "8.0"
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = ["-v", "--tb=short", "--strict-markers"]

@@ -1,5 +1,7 @@
 # Casa Origen — Segmentación de clientes y análisis de cesta de la compra
 
+[![tests](https://github.com/BORJAMOME/casa-origen-analytics/actions/workflows/tests.yml/badge.svg)](https://github.com/BORJAMOME/casa-origen-analytics/actions/workflows/tests.yml)
+
 ## Contexto de negocio
 
 Casa Origen son dos cafeterías de especialidad en Madrid, una en Lavapiés (abierta en enero de 2023) y otra en Malasaña (julio de 2024). Perfil de cliente distinto en cada local —vecinos y foodies en Lavapiés, turismo gastronómico en Malasaña— con una carta de 37 productos repartidos en 6 categorías (café, bakery, pan, tostas, bebidas, retail) y venta por tres canales: en local, Glovo y Uber Eats.
