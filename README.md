@@ -94,7 +94,7 @@ tests/        Pruebas automatizadas con pytest
 models/       Modelos K-Means y scaler entrenados (.joblib)
 outputs/      Resultados, segmentos, itemsets, reglas e interpretaciones
 results/      Gráficas y visualizaciones del análisis
-
+```
 
 
 ## Tecnologías
