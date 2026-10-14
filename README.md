@@ -1,6 +1,4 @@
-# Casa Origen — Segmentación de clientes y análisis de cesta de la compra
-
-[![Tests](https://github.com/BORJAMOME/casa-origen-analytics/actions/workflows/tests.yml/badge.svg)](https://github.com/BORJAMOME/casa-origen-analytics/actions/workflows/tests.yml)
+# Casa Origen - Segmentación de clientes y análisis de cesta de la compra
 
 Proyecto final del bootcamp de Data Analyst en Neoland. He desarrollado una solución de análisis de datos para descubrir **qué clientes aportan más valor al negocio y qué productos tienen potencial para venderse juntos**, combinando Python, SQL Server, Power BI y Machine Learning.
 
