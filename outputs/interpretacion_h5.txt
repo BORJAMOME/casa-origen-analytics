@@ -3,11 +3,11 @@
 INTERPRETACIÓN DE NEGOCIO · CIERRE DE H5
 
 Sobre el dataset Casa Origen 2023-2025 (1,200 clientes, 3 años de tickets),
-el modelo K-Means identifica 5 segmentos naturales con separación PCA de 99,8%
-de varianza en 2 componentes:
+K-Means agrupa a los clientes en 5 segmentos. La proyección PCA a 2 dimensiones
+conserva el 99,8% de la varianza:
 
 - CHAMPIONS (180 clientes, 15.0%): R media 2.0d, F 307, M 2693€
-  Compraron esta semana, vienen dos veces por semana, gastan el triple de la media.
+  Compraron esta semana, vienen dos veces por semana, gastan el doble de la media.
   Aportan el 30.8% del revenue. Son el motor del negocio.
 
 - LOYAL (452 clientes, 37.7%): R 3.3d, F 158, M 1391€
@@ -15,8 +15,8 @@ de varianza en 2 componentes:
   Aportan el 39.9% del revenue.
 
 - AT RISK (268 clientes, 22.3%): R 32.7d, F 149, M 1313€
-  Historial idéntico a Loyal en frecuencia y gasto, pero llevan casi un mes sin
-  volver. Segmento con mayor ROI de campaña de reactivación.
+  Historial similar al de Loyal en frecuencia y gasto, pero llevan casi un mes sin
+  volver. Candidatos a una campaña de reactivación.
 
 - POTENTIAL (129 clientes, 10.8%): R 39.5d, F 42, M 371€
   Activos moderados con valor bajo. Objetivo: elevarlos a Loyal.
@@ -25,45 +25,45 @@ de varianza en 2 componentes:
   Nueve meses de silencio. Sunset de comunicación programada.
 
 ────────────────────────────────────────────────────────────────────────────────
-TITULAR EJECUTIVO (BLUF)
+RESUMEN PRINCIPAL
 
 El 52.7% de los clientes (Champions + Loyal) aporta el 70.7% del
 revenue. Solo los Champions, siendo el 15% de la base, generan el
 30.8% del negocio identificado.
 
-Hipótesis H5 (concentración y valor de cliente) → CONFIRMADA con patrón Pareto
-claro. La retención diferenciada por segmento está justificada cuantitativamente.
+Hipótesis H5 (concentración y valor de cliente) → CONFIRMADA: hay concentración
+tipo Pareto. Una retención diferenciada por segmento tiene respaldo en los datos.
 
 ────────────────────────────────────────────────────────────────────────────────
-DECISIONES ACCIONABLES
+PROPUESTAS A VALIDAR
 
-1. Concentrar el 80% del presupuesto de retención en Champions + Loyal.
-2. Activar campaña de reactivación en At Risk (268 clientes): máxima urgencia,
-   son la mayor bolsa de valor recuperable.
-3. Programa de fidelización blanda para Potential, objetivo: convertir el 30%
-   a Loyal en 6 meses.
-4. Sunset de comunicación semanal a Lost tras 180 días: ahorro de coste.
-5. Sugerencia adicional: Champions y Loyal juntos son >52% de la base; una
-   comunicación premium (cuppings, novedades del tostador) diferencia experiencia.
+1. Priorizar el presupuesto de retención en Champions y Loyal.
+2. Activar campaña de reactivación en At Risk (268 clientes): prioridad alta,
+   su historial de gasto es similar al de Loyal.
+3. Programa de fidelización ligero para Potential, con el objetivo de acercarlos
+   a Loyal.
+4. Reducir la comunicación semanal a Lost pasados 180 días sin compra.
+5. Champions y Loyal juntos son más del 52% de la base; una
+   comunicación premium (cuppings, novedades del tostador) podría diferenciar la experiencia.
 
 ────────────────────────────────────────────────────────────────────────────────
 LIMITACIONES METODOLÓGICAS
 
 - Dataset sintético con seed=42; en despliegue real los porcentajes exactos
-  variarían pero el patrón Pareto se mantendría.
-- Todos los tickets están identificados; en producción esperaríamos 30-50% de
-  clientes identificados. La segmentación aplicaría solo a esa fracción.
-- Silhouette moderado (~0,3) por la homogeneidad del dataset; los segmentos son
-  claros en cuanto a centroides pero con solape en la frontera Loyal / At Risk.
+  variarían y habría que comprobar si el patrón Pareto se mantiene.
+- Todos los tickets están identificados; en un negocio real habría compras
+  anónimas y la segmentación solo aplicaría a los clientes identificados.
+- Silhouette de 0,59 con K=5 (calculado sobre una muestra de 1.000 clientes); los
+  segmentos se distinguen por sus centroides, con posible solape entre Loyal y At Risk.
 
 ────────────────────────────────────────────────────────────────────────────────
 PRÓXIMOS PASOS
 
-- Integración del CSV en el modelo Power BI vía Power Query (capítulo 7 del
-  manual F5). El campo dim_cliente[segmento_rfm] deja de estar "Pendiente".
+- Integrar el CSV en el modelo de Power BI mediante Power Query y completar el
+  campo dim_cliente[segmento_rfm].
 - Dashboard 04 (Customer & Channel Analytics) publica los KPIs por segmento
   y el mapa de barrios filtrado por segmento.
-- Fase 6 traduce cada segmento a una campaña con canal, mecánica y KPI
-  (sección 8.1 del manual F5, tabla ya elaborada).
+- Traducir cada segmento a una campaña con canal, mecánica y KPI.
+  Pendiente de validar con el negocio.
 
 ════════════════════════════════════════════════════════════════════════════════

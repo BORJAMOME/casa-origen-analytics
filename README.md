@@ -27,9 +27,9 @@ He aplicado el análisis RFM (Recencia, Frecuencia y Valor Monetario) para estud
 |---|---:|---:|---|
 | Champions | 15,0 % | 30,8 % | Clientes de alto valor, muy activos y con un gasto elevado |
 | Loyal | 37,7 % | 39,9 % | Clientes habituales que mantienen un comportamiento estable |
-| At Risk | 22,3 % | – | Clientes que antes compraban con regularidad, pero llevan tiempo sin volver |
-| Potential | 10,8 % | – | Clientes con compras esporádicas y menor gasto |
-| Lost | 14,2 % | – | Clientes que llevan aproximadamente nueve meses sin actividad |
+| At Risk | 22,3 % | 22,4 % | Clientes que antes compraban con regularidad, pero llevan tiempo sin volver |
+| Potential | 10,8 % | 3,0 % | Clientes con compras esporádicas y menor gasto |
+| Lost | 14,2 % | 3,9 % | Clientes que llevan aproximadamente nueve meses sin actividad |
 
 ### ¿Qué aporta al negocio?
 
@@ -45,7 +45,7 @@ Esta información permite plantear estrategias diferenciadas de fidelización y 
 
 He utilizado FP-Growth para identificar productos que aparecen juntos con más frecuencia de la esperada. Después, relacioné los resultados con las franjas horarias para descubrir combinaciones con potencial comercial.
 
-El análisis identifica 20 conjuntos frecuentes de productos y cinco reglas de asociación entre categorías, con un lift de hasta 3,46.
+El análisis identifica 20 conjuntos frecuentes de productos y cinco reglas de asociación entre productos de categorías distintas, con un lift de hasta 2,99 en el conjunto de tickets. Al segmentar por franja horaria, el lift máximo sube a 3,46 (Kombucha + Tosta de Aguacate por la mañana).
 
 Algunos ejemplos:
 
@@ -82,6 +82,10 @@ El flujo de trabajo completo incluye:
 3. **Power BI:** creación de métricas, análisis de negocio y dashboards interactivos.
 4. **Machine Learning:** segmentación de clientes con RFM y K-Means, y análisis de asociaciones con FP-Growth.
 5. **Validación:** pruebas automatizadas con pytest para comprobar el funcionamiento de las principales funciones del proyecto.
+
+### Qué puedes ejecutar desde este repositorio
+
+Los notebooks leen `fact_ventas.csv`, `dim_cliente.csv` y `dim_producto.csv` desde una carpeta `data/` del proyecto completo, que no está incluida aquí. Por eso se publican con las salidas guardadas, y los resultados se pueden consultar en `outputs/` y `results/` sin volver a ejecutarlos. Las pruebas de `tests/` usan datos de ejemplo mínimos y se pueden lanzar con `pytest` tras instalar `requirements.txt`.
 
 ## 5. Estructura del repositorio
 

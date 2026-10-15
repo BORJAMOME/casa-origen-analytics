@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Módulo RFM para Casa Origen: Fase 5 (Machine Learning).
+Módulo RFM para Casa Origen (fase de Machine Learning).
 
 Funciones puras para:
   - cargar el fact_ventas y filtrar clientes identificados,
@@ -24,7 +24,7 @@ import pandas as pd
 
 
 # ---------------------------------------------------------------------------
-# Constantes de negocio (aprobadas por el Consejo)
+# Constantes de negocio
 # ---------------------------------------------------------------------------
 COLUMNAS_FACT_MINIMAS = ("id_ticket", "id_fecha", "id_cliente", "importe_neto")
 COLUMNAS_RFM = ("recency", "frequency", "monetary")
