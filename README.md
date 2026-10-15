@@ -107,7 +107,6 @@ results/      Gráficas y visualizaciones del análisis
 ## Enlaces
 
 - [Proyecto completo y dashboard interactivo](https://borjamora.es/casa-origen.html)
-- [Repositorio de GitHub](https://github.com/BORJAMOME/casa-origen-analytics)
 - [LinkedIn](https://www.linkedin.com/in/borjamoramendez/)
 
 ---
