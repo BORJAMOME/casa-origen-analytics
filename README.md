@@ -1,12 +1,12 @@
 # Casa Origen - Segmentación de clientes y análisis de cesta de la compra
 
-Proyecto final del bootcamp de Data Analyst en Neoland. He desarrollado una solución de análisis de datos para descubrir **qué clientes aportan más valor al negocio y qué productos tienen potencial para venderse juntos**, combinando Python, SQL Server, Power BI y Machine Learning.
+Proyecto finalista del bootcamp de Data Analyst en Neoland. He desarrollado una solución de análisis de datos para descubrir **qué clientes aportan más valor al negocio y qué productos tienen potencial para venderse juntos**, combinando Python, SQL Server, Power BI y Machine Learning.
 
 **[Ver el proyecto completo y el dashboard interactivo](https://borjamora.es/casa-origen.html)**
 
 ## El proyecto
 
-Casa Origen es un negocio ficticio formado por dos cafeterías de especialidad en Madrid, con distintos perfiles de clientes, 37 productos y tres canales de venta: en local, Glovo y Uber Eats.
+Casa Origen es una cafetería de especialidad con dos locales en Madrid. Esta tiene distintos perfiles de clientes en sus locales, su menú tiene 37 productos y tres canales de venta: en local, Glovo y Uber Eats.
 
 Para construir este caso práctico, generé datos sintéticos basados en reglas de negocio realistas, como la estacionalidad, los hábitos de compra, las franjas horarias, los descuentos y las mermas.
 
@@ -21,7 +21,7 @@ A partir de estos datos, desarrollé dos modelos de Machine Learning para respon
 
 **Archivos:** `notebooks/01_rfm_segmentacion.ipynb` · `src/rfm.py` · `src/clustering.py`
 
-He aplicado el análisis RFM (Recencia, Frecuencia y Valor Monetario) para estudiar cuándo compró cada cliente por última vez, con qué frecuencia compra y cuánto gasta. Después, utilicé K-Means para identificar cinco segmentos con comportamientos de compra diferentes.
+He aplicado el análisis RFM (Recencia, Frecuencia y Valor Monetario) para estudiar cuándo compró cada cliente por última vez, con qué frecuencia compra y cuánto gasta. Después, utilicé el modelo de K-Means para identificar cinco segmentos con comportamientos de compra diferentes.
 
 | Segmento | Clientes | Revenue | Interpretación |
 |---|---:|---:|---|
@@ -43,7 +43,7 @@ Esta información permite plantear estrategias diferenciadas de fidelización y 
 
 **Archivos:** `notebooks/02_market_basket.ipynb` · `src/basket.py`
 
-He utilizado FP-Growth para identificar productos que aparecen juntos con más frecuencia de la esperada. Después, relacioné los resultados con las franjas horarias para descubrir combinaciones con potencial comercial.
+He utilizado el modelo de FP-Growth para identificar productos que aparecen juntos con más frecuencia de la esperada. Después, relacioné los resultados con las franjas horarias para descubrir combinaciones con potencial comercial.
 
 El análisis identifica 20 conjuntos frecuentes de productos y cinco reglas de asociación entre productos de categorías distintas, con un lift de hasta 2,99 en el conjunto de tickets. Al segmentar por franja horaria, el lift máximo sube a 3,46 (Kombucha + Tosta de Aguacate por la mañana).
 
@@ -82,10 +82,6 @@ El flujo de trabajo completo incluye:
 3. **Power BI:** creación de métricas, análisis de negocio y dashboards interactivos.
 4. **Machine Learning:** segmentación de clientes con RFM y K-Means, y análisis de asociaciones con FP-Growth.
 5. **Validación:** pruebas automatizadas con pytest para comprobar el funcionamiento de las principales funciones del proyecto.
-
-### Qué puedes ejecutar desde este repositorio
-
-Los notebooks leen `fact_ventas.csv`, `dim_cliente.csv` y `dim_producto.csv` desde una carpeta `data/` del proyecto completo, que no está incluida aquí. Por eso se publican con las salidas guardadas, y los resultados se pueden consultar en `outputs/` y `results/` sin volver a ejecutarlos. Las pruebas de `tests/` usan datos de ejemplo mínimos y se pueden lanzar con `pytest` tras instalar `requirements.txt`.
 
 ## 5. Estructura del repositorio
 
