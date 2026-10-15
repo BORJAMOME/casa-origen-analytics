@@ -17,7 +17,7 @@ A partir de estos datos, desarrollé dos modelos de Machine Learning para respon
 - **Segmentación de clientes:** ¿qué grupos de clientes existen, cuánto aportan a las ventas y dónde hay oportunidades de fidelización?
 - **Análisis de cesta de la compra:** ¿qué productos suelen comprarse juntos y qué combinaciones podrían convertirse en nuevas ofertas?
 
-## 1. Segmentación de clientes — RFM + K-Means
+## 1. Segmentación de clientes: RFM + K-Means
 
 **Archivos:** `notebooks/01_rfm_segmentacion.ipynb` · `src/rfm.py` · `src/clustering.py`
 
@@ -27,9 +27,9 @@ He aplicado el análisis RFM (Recencia, Frecuencia y Valor Monetario) para estud
 |---|---:|---:|---|
 | Champions | 15,0 % | 30,8 % | Clientes de alto valor, muy activos y con un gasto elevado |
 | Loyal | 37,7 % | 39,9 % | Clientes habituales que mantienen un comportamiento estable |
-| At Risk | 22,3 % | — | Clientes que antes compraban con regularidad, pero llevan tiempo sin volver |
-| Potential | 10,8 % | — | Clientes con compras esporádicas y menor gasto |
-| Lost | 14,2 % | — | Clientes que llevan aproximadamente nueve meses sin actividad |
+| At Risk | 22,3 % | – | Clientes que antes compraban con regularidad, pero llevan tiempo sin volver |
+| Potential | 10,8 % | – | Clientes con compras esporádicas y menor gasto |
+| Lost | 14,2 % | – | Clientes que llevan aproximadamente nueve meses sin actividad |
 
 ### ¿Qué aporta al negocio?
 
@@ -39,7 +39,7 @@ Por otro lado, At Risk presenta una oportunidad de análisis: sus patrones hist�
 
 Esta información permite plantear estrategias diferenciadas de fidelización y recuperación, en lugar de aplicar las mismas acciones a toda la base de clientes.
 
-## 2. Análisis de cesta de la compra — FP-Growth
+## 2. Análisis de cesta de la compra: FP-Growth
 
 **Archivos:** `notebooks/02_market_basket.ipynb` · `src/basket.py`
 

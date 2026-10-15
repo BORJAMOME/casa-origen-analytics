@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Módulo RFM para Casa Origen — Fase 5 (Machine Learning).
+Módulo RFM para Casa Origen: Fase 5 (Machine Learning).
 
 Funciones puras para:
   - cargar el fact_ventas y filtrar clientes identificados,
